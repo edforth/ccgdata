@@ -20,9 +20,11 @@ The ranking of sources from most preferred to least preferred is
 * A document from a trusted third party source
 
 # Definitions of Done
-Item Complete: A Game or Set is labeled as Item Complete when we believe we have an entry for every item in that game or set in our dataset.
-Data Complete: A Game or Set is labeled as Data Complete when we have included all attribute data for each item in that game or set in our dataset.
-Image Complete: A Game or Set is labeled as Image Complete when we have created, or been donated high quality images covering all relevant attributes of each item in the game or set.
+**Item Complete**: A Game or Set is labeled as Item Complete when we believe we have an entry for every item in that game or set in our dataset.
+
+**Data Complete**: A Game or Set is labeled as Data Complete when we have included all attribute data for each item in that game or set in our dataset.
+
+**Image Complete**: A Game or Set is labeled as Image Complete when we have created, or been donated high quality images covering all relevant attributes of each item in the game or set.
 
 # Style Guide
 Our goal is to accurately document TCGs as they were designed and released. Whereever possible, the style and errors present in a release item should be preserved.  If their is a need to include corrections or errata, they should be included in addition to the original, published form. 
@@ -77,8 +79,10 @@ https://archive.org/details/the-crow_card-scans
 ## On the Edge - 
 - Limited Edition - 269/269 Variants unknown
 - Unlimited Edition - 269/269 Variants unknown
-- Standard Edition - Item Complete: 283/283
+- Standard Edition - Item Complete: 283/283 - Images: 
 - The Cut-Ups Project - Item Complete: 133/133
 - Shadows - Item Complete: 121/121
 - Arcana - Item Complete: 169/169
 - Specials - Item Complete: 24/24
+
+https://archive.org/details/on-the-edge-ccg-hd-scans
