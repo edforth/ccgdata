@@ -2,22 +2,22 @@
 The goal of the TCG Data project is to provide a public data set concerning card and game details for dead collectible card games and trading card games to support software development, discussion, and interest regarding these games.
 
 # Scope
-This project is focused on documenting dead TCGs.  
+This project is focused on documenting dead CCGs.  
 
-A game is considered a "TCG" for this project if players are expected to assemble their own beginning game items out of their own collections before beginning a game.  "Deck Building" games such as Dominion, or Ascension that include all components for all players and expect the players to assemble their decks out of this shared pool during the course of the game are out of scope for this project. "LCGs" like Doomtown: Reloaded or Android: Netrunner that are sold as full sets, but still require expect players to assemble their own sets of beginning components are in scope for this project.
+A game is considered a "CCG" for this project if players are expected to assemble their own beginning game items out of their own collections before beginning a game.  "Deck Building" games such as Dominion, or Ascension that include all components for all players and expect the players to assemble their decks out of this shared pool during the course of the game are out of scope for this project. "LCGs" like Doomtown: Reloaded or Android: Netrunner that are sold as full sets, but still require expect players to assemble their own sets of beginning components are in scope for this project.
 
 A game does not need to be limited to cards, such as Dice Masters, nor does it need to use cards at all, such as Dragon Dice, to be in scope for this project. 
 
-A TCG is considered "dead" when it has been cancelled by it's designers and is not expected to receive new additions.  We may choose to include a game that is later revived, such as Overpower, but we will not cover the new publisher's additions.  This chose is primarily due to the additional resources needed to provide ongoing coverage to a "live" game.
+A CCG is considered "dead" when it has been cancelled by it's designers and is not expected to receive new additions.  We may choose to include a game that is later revived, such as Overpower, but we do notintend to cover the new publisher's additions.  This choice is due to the additional resources needed to provide ongoing coverage to a "live" game.
 
 # Sources
-Any item data used in the TCG Data project must be from an appropriate source.
+Any item data used in the CCG Data project must be from an appropriate source.
 
 The ranking of sources from most preferred to least preferred is
-* A physical copy of an actual game item in the possession of a trusted TCG Data Project contributor
-* A photograph of a physical game item
-* An official document from the publisher of the game
-* A document from a trusted third party source
+* item: A physical copy of an actual game item in the possession of a trusted CCG Data Project contributor
+* photo: A photograph of a physical game item
+* first-party-document: An official document from the publisher of the game
+* third-party-document: A document from a trusted third party source
 
 # Definitions of Done
 **Item Complete**: A Game or Set is labeled as Item Complete when we believe we have an entry for every item in that game or set in our dataset.
@@ -27,7 +27,7 @@ The ranking of sources from most preferred to least preferred is
 **Image Complete**: A Game or Set is labeled as Image Complete when we have created, or been donated high quality images covering all relevant attributes of each item in the game or set.
 
 # Style Guide
-Our goal is to accurately document TCGs as they were designed and released. Whereever possible, the style and errors present in a release item should be preserved.  If their is a need to include corrections or errata, they should be included in addition to the original, published form. 
+Our goal is to accurately document CCGs as they were designed and released. Whereever possible, the style and errors present in a release item should be preserved.  If their is a need to include corrections or errata, they should be included in addition to the original, published form. 
 
 # Data
 All items in the dataset shall have at least the following values
@@ -47,7 +47,7 @@ All items in the dataset shall have at least the following values
     - variant_disambiguator: this is a string that distinguishes physically distinct items from the same game and set with the same printed name. Both intentional (premium printings, etc.) and unintentional (misprints, etc.) variances are covered by this value. Criteria for choosing this value are (in order):
         - The value should be clear enough so that a person in posession of the item can identify the item knowing only the game line, set, printed name, functional disambiguator, and this value. Variants must have some difference in the physical aspects of the item, so the variant disambiguator should always reference a physical property of the card.
         - Unfortunately, there are some situations where the variance can only be detected by comparing two variants of the same item to each other. In these cases, it is acceptable to use a relative descriptor as the disambiguation value, but objective properties are preferred. For example, if the variance is due to a background color, naming the hue is preferred (blue, green, etc). If this is not possible, "lighter" vs "darker" may be used
-        - If they only variances for the item are already captured in other attributes, e.g. "language" or "finish", use the minimum combination of these attributes necessary to identify the variances.
+        - If the only variances for the item are already captured in other attributes, e.g. "language" or "finish", use the minimum combination of these attributes necessary to identify the variances.
         - If there is an existing disambiguator in common use among the game's community already, we should adopt it, as long as it meets the above requirements
         - Shorter values are preferred over longer values when the above requirements are met as this value will be used in the creation of other values
 - source - a string indicating the source of the data for this item.   Acceptable values are ("item", "photo", "first-party-document", "third-party-document")
@@ -55,7 +55,7 @@ All items in the dataset shall have at least the following values
 - attributes - a JSON object describing all relevant attributes of the game item.
 
 # Supported Data Formats
-Currently, we intend to maintain per-game CSVs with all item data. These CSVs will be regenerated as needed from our project database.  We also intend to move our database files into github when we are able.
+Currently, we intend to maintain per-game CSVs with all item data. These CSVs will be regenerated as needed from our project database.  We also intend to move our database creation files into github when we are able.
 
 Our desire is to provide a robust set of data formats to support other projects.  If you have a project that would benefit from different data formats, please reach out or create an issue. 
 

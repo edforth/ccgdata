@@ -1,0 +1,14 @@
+{
+  "id": "UUID, unique, primary"
+  , "name": "text"
+  , "game_id": "UUID, foreign key, not null"
+  , "set_name_slug": "text, unique"
+  , "source_notes": [{"{field name}": "text"},{"{field name 2 ...}": "text"}]
+  , "links": {
+    "{link name}": "URL"
+    , "{link name 2 ...}": "URL"
+  }
+  , "release-year": "int, null=True, blank=True"
+  , "release-month": "int"
+  , "release-day": "int"
+}
