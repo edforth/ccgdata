@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 from pathlib import Path
 import os
 from dotenv import load_dotenv
-load_dotenv()
+load_dotenv('../.env')
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -77,12 +77,12 @@ WSGI_APPLICATION = 'ccgdata.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': os.getenv('DJANGO_DATABASES_ENGINE'),
-	'NAME': os.getenv('DJANGO_DATABASES_NAME'),
-	'USER': os.getenv('DJANGO_DATABASES_USER'),
-	'PASSWORD': os.getenv('DJANGO_DATABASES_PASSWORD'),
-	'HOST': os.getenv('DJANGO_DATABASES_HOST'),
-	'PORT': os.getenv('DJANGO_DATABASES_PORT')
+        'ENGINE': os.getenv('DJANGO_DATABASE_ENGINE'),
+	'NAME': os.getenv('CCGDATA_DATABASE_NAME'),
+	'USER': os.getenv('CCGDATA_DATABASE_USER'),
+	'PASSWORD': os.getenv('CCGDATA_DATABASE_PASSWORD'),
+	'HOST': os.getenv('CCGDATA_DATABASE_HOST'),
+	'PORT': os.getenv('CCGDATA_DATABASE_PORT')
     }
 }
 
