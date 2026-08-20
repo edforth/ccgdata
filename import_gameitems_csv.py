@@ -9,7 +9,8 @@ load_dotenv()
 
 
 import_csvs = [
-    'import/rage_items.csv'
+    'import/austin-powers_items.csv'
+    #, 'import/rage_items.csv'
 ]
 
 import_csv_path = 'import/rage_items.csv'
@@ -35,6 +36,7 @@ def import_game_items(import_csv_path, database_url):
         # Open a cursor to perform database operations
         with conn.cursor() as cur:
             for row in imported_csv:
+                print(row)
                 attributes_dict = json.loads(row['attributes']) 
                 images_dict = json.loads(row['images']) 
                 try:

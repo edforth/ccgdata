@@ -14,29 +14,42 @@ class Artist(models.Model):
 
 class Game(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4)
-    name = models.TextField()
+    name = models.TextField(unique=True)
+    published_name = models.TextField()
+    original_release_year = models.IntegerField(blank=True, null=True)
+    original_release_month = models.IntegerField(blank=True, null=True)
+    original_release_day = models.IntegerField(blank=True, null=True)
+    publishers = models.JSONField(default=list, blank=True)
+    languages = models.JSONField(default=list, blank=True)
+    tags = models.JSONField(default=list, blank=True)
     links = models.JSONField(default=dict, blank=True)
-    release_year = models.IntegerField(blank=True, null=True)
-    release_month = models.IntegerField(blank=True, null=True)
-    release_day = models.IntegerField(blank=True, null=True)
-    original_release = models.DateField(blank=True, null=True)
-    game_name_slug = models.TextField(unique=True)
+    related_game_ids = models.JSONField(default=list, blank=True)
+    is_independently_customized = models.BooleanField(blank=True, null=True)
+    is_extant = models.BooleanField(blank=True, null=True)
+    has_english_release = models.BooleanField(blank=True, null=True)
+    is_competitive = models.BooleanField(blank=True, null=True)
+    in_scope = models.BooleanField(blank=True, null=True)
     source_notes = models.JSONField(default=dict, blank=True)
+    comments = models.TextField(blank=True, null=True)
+    game_name_slug = models.TextField(unique=True)
     def __str__(self):
         return self.game_name_slug
 
 
 class Set(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4)
-    name = models.TextField()
-    set_name_slug = models.TextField(unique=True)
     game = models.ForeignKey(Game, models.SET_NULL, blank=True, null=True)
-    source_notes = models.JSONField(default=dict, blank=True)
+    name = models.TextField()
+    game_set_slug = models.TextField(unique=True)
+    publishers = models.JSONField(default=list, blank=True)
+    released = models.BooleanField(blank=True, null=True)
     release_year = models.IntegerField(blank=True, null=True)
     release_month = models.IntegerField(blank=True, null=True)
     release_day = models.IntegerField(blank=True, null=True)
+    expected_item_count = models.IntegerField(blank=True, null=True)
+    source_notes = models.JSONField(default=dict, blank=True)
     def __str__(self):
-        return self.set_name_slug
+        return self.game_set_slug
 
 
 class Item(models.Model):

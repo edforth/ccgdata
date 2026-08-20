@@ -30,6 +30,17 @@ DEBUG = True
 
 ALLOWED_HOSTS = os.getenv('DJANGO_ALLOWED_HOSTS', '').split(',')
 
+
+#setting for code server's proxy server - maybe??
+#STATIC_URL = 'https://code.squirrelgardens.net/proxy/8000/'
+BASE_URL = 'https://code.squirrelgardens.net/proxy/8000/'
+#FORCE_SCRIPT_NAME = '/proxy/8000'
+#STATIC_URL = '/proxy/8000/static/'
+#MEDIA_URL = '/proxy/8000/media/'
+#SESSION_COOKIE_PATH = '/proxy/8000/'
+#USE_X_FORWARDED_HOST = True
+
+
 # Application definition
 
 INSTALLED_APPS = [
