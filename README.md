@@ -60,6 +60,7 @@ Currently, we intend to maintain per-game CSVs with all item data. These CSVs wi
 Our desire is to provide a robust set of data formats to support other projects.  If you have a project that would benefit from different data formats, please reach out or create an issue. 
 
 # Current Game Statuses
+
 **Altered**: Total Items Identied = 523. Items imaged = 0/523 (0%), Items documented = 68/523 (13%)
 
 **Anime Madness**: Total Items Identied = 82. Items imaged = 82/82 (100%), Items documented = 0/82 (0%)
@@ -92,9 +93,37 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 **Magi-Nation Duel**: Total Items Identied = 1376. Items imaged = 0/1376 (0%), Items documented = 0/1376 (0%)
 
+**Marvel Super Heroes Collector's Club Trading Card Game**: Total Items Identied = 164. Items imaged = 154/164 (94%), Items documented = 0/164 (0%)
+
+**MetaZoo (2021)**: Total Items Identied = 1049. Items imaged = 0/1049 (0%), Items documented = 0/1049 (0%)
+
+**Monster Magic**: Total Items Identied = 104. Items imaged = 0/104 (0%), Items documented = 57/104 (55%)
+
+**Monty Python and the Holy Grail Collectible Card Game**: Total Items Identied = 473. Items imaged = 166/473 (35%), Items documented = 0/473 (0%)
+
 **On the Edge**: Total Items Identied = 1268. Items imaged = 667/1268 (53%), Items documented = 70/1268 (6%)
 
+**Ophidian 2350**: Total Items Identied = 240. Items imaged = 239/240 (100%), Items documented = 0/240 (0%)
+
+**OverPower**: Total Items Identied = 346. Items imaged = 0/346 (0%), Items documented = 0/346 (0%)
+
+**Powercardz**: Total Items Identied = 496. Items imaged = 227/496 (46%), Items documented = 0/496 (0%)
+
+**Racing Challenge**: Total Items Identied = 231. Items imaged = 138/231 (60%), Items documented = 33/231 (14%)
+
 **Rage (1995)**: Total Items Identied = 1302. Items imaged = 1103/1302 (85%), Items documented = 1302/1302 (100%)
+
+**Redemption**: Total Items Identied = 4110. Items imaged = 995/4110 (24%), Items documented = 0/4110 (0%)
+
+**Sand Land Tactical Card Battle**: Total Items Identied = 145. Items imaged = 145/145 (100%), Items documented = 145/145 (100%)
+
+**Sim City: The Card Game**: Total Items Identied = 1111. Items imaged = 0/1111 (0%), Items documented = 0/1111 (0%)
+
+**Star Trek Customizable Card Game**: Total Items Identied = 3768. Items imaged = 0/3768 (0%), Items documented = 0/3768 (0%)
+
+**Star Wars Customizable Card Game**: Total Items Identied = 3733. Items imaged = 0/3733 (0%), Items documented = 0/3733 (0%)
+
+**Tempest of the Gods**: Total Items Identied = 270. Items imaged = 166/270 (61%), Items documented = 270/270 (100%)
 
 **The Crow**: Total Items Identied = 123. Items imaged = 26/123 (21%), Items documented = 123/123 (100%)
 
@@ -102,6 +131,23 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 **The Spoils**: Total Items Identied = 3767. Items imaged = 1576/3767 (42%), Items documented = 0/3767 (0%)
 
+**The Super Mario Bros Movie Trading Card Game**: Total Items Identied = 100. Items imaged = 100/100 (100%), Items documented = 100/100 (100%)
+
+**Tomb Raider Collectible Card Game**: Total Items Identied = 592. Items imaged = 275/592 (46%), Items documented = 0/592 (0%)
+
+**Topps Attax**: Total Items Identied = 517. Items imaged = 99/517 (19%), Items documented = 0/517 (0%)
+
+**Towers in Time**: Total Items Identied = 205. Items imaged = 130/205 (63%), Items documented = 0/205 (0%)
+
+**Vampire: The Masquerade Rivals**: Total Items Identied = 270. Items imaged = 270/270 (100%), Items documented = 0/270 (0%)
+
+**WARS Trading Card Game**: Total Items Identied = 633. Items imaged = 352/633 (56%), Items documented = 0/633 (0%)
+
+**World of Warriors Trading Card Game**: Total Items Identied = 264. Items imaged = 0/264 (0%), Items documented = 0/264 (0%)
+
+**WWE Raw Deal**: Total Items Identied = 3699. Items imaged = 0/3699 (0%), Items documented = 0/3699 (0%)
+
 **Xena: Warrior Princess**: Total Items Identied = 255. Items imaged = 170/255 (67%), Items documented = 0/255 (0%)
 
 **XXXenophile**: Total Items Identied = 270. Items imaged = 127/270 (47%), Items documented = 0/270 (0%)
+
