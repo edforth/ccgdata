@@ -61,25 +61,47 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 # Current Game Statuses
 **Altered**: Total Items Identied = 523. Items imaged = 0/523 (0%), Items documented = 68/523 (13%)
+
 **Anime Madness**: Total Items Identied = 82. Items imaged = 82/82 (100%), Items documented = 0/82 (0%)
+
 **Argent Saga**: Total Items Identied = 91. Items imaged = 0/91 (0%), Items documented = 0/91 (0%)
+
 **Austin Powers Collectible Card Game**: Total Items Identied = 140. Items imaged = 140/140 (100%), Items documented = 140/140 (100%)
+
 **Banemaster: The Adventure**: Total Items Identied = 311. Items imaged = 46/311 (15%), Items documented = 0/311 (0%)
+
 **Dice Masters**: Total Items Identied = 4251. Items imaged = 2147/4251 (51%), Items documented = 0/4251 (0%)
+
 **Doomtown Reloaded**: Total Items Identied = 1257. Items imaged = 253/1257 (20%), Items documented = 0/1257 (0%)
+
 **Echelons of Fire**: Total Items Identied = 171. Items imaged = 159/171 (93%), Items documented = 0/171 (0%)
+
 **Echelons of Fury**: Total Items Identied = 271. Items imaged = 262/271 (97%), Items documented = 0/271 (0%)
+
 **Flights of Fantasy**: Total Items Identied = 127. Items imaged = 114/127 (90%), Items documented = 0/127 (0%)
+
 **Guardians**: Total Items Identied = 1004. Items imaged = 236/1004 (24%), Items documented = 0/1004 (0%)
+
 **Hecatomb**: Total Items Identied = 365. Items imaged = 0/365 (0%), Items documented = 0/365 (0%)
+
 **Highlander: The Card Game**: Total Items Identied = 1484. Items imaged = 0/1484 (0%), Items documented = 0/1484 (0%)
+
 **Hyborian Gates**: Total Items Identied = 473. Items imaged = 434/473 (92%), Items documented = 0/473 (0%)
+
 **L.O.L. Surprise! Dance Off!**: Total Items Identied = 450. Items imaged = 311/450 (69%), Items documented = 450/450 (100%)
+
 **Magi-Nation Duel**: Total Items Identied = 1376. Items imaged = 0/1376 (0%), Items documented = 0/1376 (0%)
+
 **On the Edge**: Total Items Identied = 1268. Items imaged = 667/1268 (53%), Items documented = 70/1268 (6%)
+
 **Rage (1995)**: Total Items Identied = 1302. Items imaged = 1103/1302 (85%), Items documented = 1302/1302 (100%)
+
 **The Crow**: Total Items Identied = 123. Items imaged = 26/123 (21%), Items documented = 123/123 (100%)
+
 **The Nightmare Before Christmas Trading Card Game**: Total Items Identied = 295. Items imaged = 268/295 (91%), Items documented = 295/295 (100%)
+
 **The Spoils**: Total Items Identied = 3767. Items imaged = 1576/3767 (42%), Items documented = 0/3767 (0%)
+
 **Xena: Warrior Princess**: Total Items Identied = 255. Items imaged = 170/255 (67%), Items documented = 0/255 (0%)
+
 **XXXenophile**: Total Items Identied = 270. Items imaged = 127/270 (47%), Items documented = 0/270 (0%)
