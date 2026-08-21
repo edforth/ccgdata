@@ -9,8 +9,16 @@ load_dotenv()
 
 
 import_csvs = [
-    'import/austin-powers_items.csv'
-    #, 'import/rage_items.csv'
+    # 'import/ccgdata_gameitems_austin-powers.csv'
+    'import/ccgdata_gameitems_dice-masters.csv'
+    #, 'import/ccgdata_gameitems_hyborian-gates.csv'
+    #, 'import/ccgdata_gameitems_on-the-edge.csv'
+    #, 'import/ccgdata_gameitems_rage.csv'
+    #, 'import/ccgdata_gameitems_the-crow.csv'
+    #, 'import/ccgdata_gameitems_the-nightmare-before-christmas.csv'
+    #, 'import/ccgdata_gameitems_the-spoils.csv'
+    #, 'import/ccgdata_gameitems_xena.csv'
+    #, 'import/ccgdata_gameitems_xxxenophile.csv'    
 ]
 
 import_csv_path = 'import/rage_items.csv'
@@ -48,19 +56,61 @@ def import_game_items(import_csv_path, database_url):
                 else:
                     row_id = uuid.uuid4()
                     # attempting to convert the above to an upsert
+                if 'imaged' in row and row['imaged'] == "1":
+                    imaged_bool = True 
+                else: 
+                    imaged_bool = False
+                if 'documented' in row and row['documented'] == "1":
+                    documented_bool = True 
+                else: 
+                    documented_bool = False
                 cur.execute(
-                    "INSERT INTO gameitems_item ("
-                    "id, name, attributes, images, source_notes, "
-                    "functional_name, item_name_slug, imaged, "
-                    "documented, game_id, set_id, source) "
-                    "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
-                    "ON CONFLICT (id) DO UPDATE SET "
-                    "name=EXCLUDED.name, attributes=EXCLUDED.attributes, images=EXCLUDED.images, source_notes=EXCLUDED.source_notes, "
-                    "functional_name=EXCLUDED.functional_name, item_name_slug=EXCLUDED.item_name_slug, imaged=EXCLUDED.imaged, "
-                    "documented=EXCLUDED.documented, game_id=EXCLUDED.game_id, set_id=EXCLUDED.set_id, source=EXCLUDED.source",
-                    (row_id, row['item_name'], Jsonb(attributes_dict), Jsonb(images_dict), Jsonb(source_notes_dict)
-                    , row['functional_name'], row['game_set_item_slug'], row['imaged']
-                    , row['documented'], row['game_id'], row['set_id'], row['source'])
+                    """
+                    INSERT INTO gameitems_item (
+                        id, name, attributes, images, source_notes, 
+                        functional_name, item_name_slug, imaged, 
+                        documented, game_id, set_id, source
+                        ) 
+                    VALUES (
+                        %s --$1 id (unique uuid)
+                        , %s --$2 name (text)
+                        , %s --$3 attributes (dict)
+                        , %s --$4 images (list)
+                        , %s --$5 source_notes (dict)
+                        , %s --$6 functional_name (text)
+                        , %s --$7 item_name_slug (unique text)
+                        , %s --$8 imaged (bool)
+                        , %s --$9 documented (bool)
+                        , %s --$10 game_id (uuid, foreign key)
+                        , %s --$11 set_id (uuid, foreign key)
+                        , %s --$12 source (text)
+                        )
+                    ON CONFLICT (id) DO UPDATE SET 
+                        name=EXCLUDED.name
+                        , attributes=EXCLUDED.attributes
+                        , images=EXCLUDED.images
+                        , source_notes=EXCLUDED.source_notes
+                        , functional_name=EXCLUDED.functional_name
+                        , item_name_slug=EXCLUDED.item_name_slug
+                        , imaged=EXCLUDED.imaged
+                        , documented=EXCLUDED.documented
+                        , game_id=EXCLUDED.game_id
+                        , set_id=EXCLUDED.set_id
+                        , source=EXCLUDED.source
+                    """,
+                    (
+                        row_id, row['item_name']
+                        , Jsonb(attributes_dict)
+                        , Jsonb(images_dict)
+                        , Jsonb(source_notes_dict)
+                        , row['functional_name']
+                        , row['game_set_item_slug']
+                        , imaged_bool
+                        , documented_bool
+                        , row['game_id']
+                        , row['set_id']
+                        , row['source']
+                    )
                 )   
                 conn.commit()
     return True 

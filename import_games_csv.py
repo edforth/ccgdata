@@ -62,16 +62,15 @@ def import_games_csv(import_csv_path, database_url):
                         , links
                         , related_game_ids
                         , is_independently_customized
-                        , is_extant
+                        , is_dead
                         , has_english_release
-                        , is_competitive
                         , in_scope
                         , source_notes
                         , comments
                         , game_name_slug
                         ) 
                     VALUES (%s, %s, %s, nullif(%s, '')::INTEGER, nullif(%s, '')::INTEGER, nullif(%s, '')::INTEGER, %s, %s, %s, %s, %s
-                        , nullif(%s, '')::BOOL, nullif(%s, '')::BOOL, nullif(%s, '')::BOOL, nullif(%s, '')::BOOL, nullif(%s, '')::BOOL, %s, %s, %s)
+                        , nullif(%s, '')::BOOL, nullif(%s, '')::BOOL, nullif(%s, '')::BOOL, nullif(%s, '')::BOOL, %s, %s, %s)
                     ON CONFLICT (id) DO UPDATE SET 
                         name=EXCLUDED.name
                         , published_name=EXCLUDED.published_name
@@ -84,9 +83,8 @@ def import_games_csv(import_csv_path, database_url):
                         , links=EXCLUDED.links
                         , related_game_ids=EXCLUDED.related_game_ids
                         , is_independently_customized=EXCLUDED.is_independently_customized
-                        , is_extant=EXCLUDED.is_extant
+                        , is_dead=EXCLUDED.is_dead
                         , has_english_release=EXCLUDED.has_english_release
-                        , is_competitive=EXCLUDED.is_competitive
                         , in_scope=EXCLUDED.in_scope
                         , source_notes=EXCLUDED.source_notes
                         , comments=EXCLUDED.comments
@@ -105,9 +103,8 @@ def import_games_csv(import_csv_path, database_url):
                         , Jsonb(links_dict)
                         , Jsonb(related_game_ids_list)
                         , row['is_independently_customized']
-                        , row['is_extant']
+                        , row['is_dead']
                         , row['has_english_release']
-                        , row['is_competitive']
                         , row['in_scope']
                         , Jsonb(source_notes_dict)
                         , row['comments']

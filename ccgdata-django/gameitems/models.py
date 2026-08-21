@@ -25,9 +25,8 @@ class Game(models.Model):
     links = models.JSONField(default=dict, blank=True)
     related_game_ids = models.JSONField(default=list, blank=True)
     is_independently_customized = models.BooleanField(blank=True, null=True)
-    is_extant = models.BooleanField(blank=True, null=True)
+    is_dead = models.BooleanField(blank=True, null=True)
     has_english_release = models.BooleanField(blank=True, null=True)
-    is_competitive = models.BooleanField(blank=True, null=True)
     in_scope = models.BooleanField(blank=True, null=True)
     source_notes = models.JSONField(default=dict, blank=True)
     comments = models.TextField(blank=True, null=True)
@@ -64,8 +63,8 @@ class Item(models.Model):
     source_notes = models.JSONField(default=dict, blank=True)
     functional_name = models.TextField()
     item_name_slug = models.TextField(unique=True)
-    imaged = models.BooleanField(blank=True, null=True)
-    documented = models.BooleanField(blank=True, null=True)
+    imaged = models.BooleanField(default=False)
+    documented = models.BooleanField(default=False)
     def __str__(self):
         return self.item_name_slug
 
