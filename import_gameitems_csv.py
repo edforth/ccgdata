@@ -25,62 +25,37 @@ import_csvs = [
     #, 'import/ccgdata_gameitems_hyborian-gates.csv'
     #, 'import/ccgdata_gameitems_lol-surprise.csv'
     #, 'import/ccgdata_gameitems_magi-nation-duel.csv'
-    #, 
-    #, 
-    #, 
-    #, 
+    #, 'import/ccgdata_gameitems_marvel-superheroes-collectors-club.csv'
+    #, 'import/ccgdata_gameitems_metazoo-2021.csv'
+    #, 'import/ccgdata_gameitems_monster-magic.csv'
+    #, 'import/ccgdata_gameitems_monty-python.csv'
     #, 'import/ccgdata_gameitems_on-the-edge.csv'
-    #, 
-    #, 
-    #, 
-    #, 
+    #, 'import/ccgdata_gameitems_ophidian-2350.csv'
+    #, 'import/ccgdata_gameitems_overpower.csv'
+    #, 'import/ccgdata_gameitems_powercardz.csv'
+    #, 'import/ccgdata_gameitems_racing-challenge.csv'
     #, 'import/ccgdata_gameitems_rage.csv'
-    #, 
-    #, 
-    #, 
-    #, 
-    #, 
-    #, 
-    #, 
+    #, 'import/ccgdata_gameitems_redemption.csv'
+    #, 'import/ccgdata_gameitems_sand-land.csv'
+    #, 'import/ccgdata_gameitems_simcity.csv'
+    #, 'import/ccgdata_gameitems_star-trek-ccg.csv'
+    #, 'import/ccgdata_gameitems_star-wars-ccg.csv'
+    #, 'import/ccgdata_gameitems_tempest-of-the-gods.csv'
     #, 'import/ccgdata_gameitems_the-crow.csv'
     #, 'import/ccgdata_gameitems_the-nightmare-before-christmas.csv'
     #, 'import/ccgdata_gameitems_the-spoils.csv'
-    #, 
-    #, 
-    #, 
-    #, 
-    #, 
-    #, 
-    #, 
+    #, 'import/ccgdata_gameitems_the-super-mario-bros-movie.csv'
+    #, 'import/ccgdata_gameitems_tomb-raider.csv'
+    #, 'import/ccgdata_gameitems_tops-attax.csv'
+    #, 'import/ccgdata_gameitems_towers-in-time.csv'
+    #, 'import/ccgdata_gameitems_vampire-the-masquerade-rivals.csv'
+    #, 'import/ccgdata_gameitems_wars.csv'
+    #, 'import/ccgdata_gameitems_world-of-warriors.csv'
+    #, 'import/ccgdata_gameitems_wwe-raw-deal.csv'
     #, 'import/ccgdata_gameitems_xena.csv'
     #, 'import/ccgdata_gameitems_xxxenophile.csv'    
-   
-
-    'import/ccgdata_gameitems_marvel-superheroes-collectors-club.csv'
-    #'import/ccgdata_gameitems_metazoo-2021.csv'
-    #'import/ccgdata_gameitems_monster-magic.csv'
-    #'import/ccgdata_gameitems_mony-python.csv'
-    #'import/ccgdata_gameitems_ophidian-2350.csv'
-    #'import/ccgdata_gameitems_overpower.csv'
-    #'import/ccgdata_gameitems_powercardz.csv'
-    #'import/ccgdata_gameitems_racing-challenge.csv'
-    #'import/ccgdata_gameitems_raw-deal.csv'
-    #'import/ccgdata_gameitems_redemption.csv'
-    #'import/ccgdata_gameitems_sand-land.csv'
-    #'import/ccgdata_gameitems_simcity.csv'
-    #'import/ccgdata_gameitems_star-trek-ccg.csv'
-    #'import/ccgdata_gameitems_star-wars-ccg.csv'
-    #'import/ccgdata_gameitems_tempest-of-the-gods.csv'
-    #'import/ccgdata_gameitems_the-super-mario-bros-movie.csv'
-    #'import/ccgdata_gameitems_tomb-raider.csv'
-    #'import/ccgdata_gameitems_tops-attax.csv'
-    #'import/ccgdata_gameitems_towers-in-time.csv'
-    #'import/ccgdata_gameitems_vampire-the-masquerade-rivals.csv'
-    #'import/ccgdata_gameitems_wars.csv'
-    #'import/ccgdata_gameitems_world-of-warriors.csv'
 ]
 
-import_csv_path = 'import/rage_items.csv'
 
 def is_valid_uuid(potential_uuid):
     try:

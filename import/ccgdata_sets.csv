@@ -357,6 +357,7 @@ a14ff4c4-95df-4fd8-8c3d-5672eb55d0c5,8abc487d-7663-4e87-90ee-51c50173e460,Base S
 75697cc7-27b2-4fa6-b8ed-db9cec3ec921,86e841c5-9fe5-49bc-9dcb-4a26a5850a42,Base Set,killer-instinct_base-set,"[""Topps""]",,1996,6,,342,{}
 43132384-59b8-4950-9719-d9a663c89e14,852b904b-0725-49ae-a3b3-d55595d7148c,Inferno,kult_inferno,"[""Heartbreaker"", ""Target Games AB""]",,1997,7,,125,{}
 eec2a3ec-d534-40f0-961b-89b7bffabc50,852b904b-0725-49ae-a3b3-d55595d7148c,Limited Edition,kult_limited-edition,"[""Heartbreaker"", ""Target Games AB""]",,1995,11,,262,{}
+6cef585c-381a-4e13-98dc-d47e1ca81914,d7f21ae7-0497-49b4-831c-470b76c5f6de,Base Set,l-o-l--surprise!-dance-off!_base-set,[],,,,,450,{}
 55217517-2728-42c0-833c-aa0ad14dcbdd,b43e446d-9cf1-45ff-896f-cd8b8586fe18,Awakenings,legend-of-the-burning-sands_awakenings,"[""Wizards of the Coast""]",,1998,9,,464,{}
 22fafb5c-3258-47cb-888d-a172008acf13,b43e446d-9cf1-45ff-896f-cd8b8586fe18,Episode 1: Shadow of the Tyrant,legend-of-the-burning-sands_episode-1--shadow-of-the-tyrant,"[""Wizards of the Coast""]",,1998,7,,156,{}
 ea8d02a8-32ea-4d14-ba14-adb871d2e5f7,b43e446d-9cf1-45ff-896f-cd8b8586fe18,Episode 2: Secrets and Lies,legend-of-the-burning-sands_episode-2--secrets-and-lies,"[""Wizards of the Coast""]",,1998,8,,104,{}
@@ -391,7 +392,6 @@ b33069e4-4c1d-45b3-aef9-337656367b57,4a597814-2f03-47fc-8957-65cdb3b1d1d7,The Hi
 e72da1dd-1c41-4593-8268-f9bd55335429,4a597814-2f03-47fc-8957-65cdb3b1d1d7,The Hidden Emperor: Episode 6,legend-of-the-five-rings_the-hidden-emperor--episode-6,"[""Wizards of the Coast""]",,1998,12,,52,{}
 7675b60b-8876-4064-9044-d3d413fb553a,4a597814-2f03-47fc-8957-65cdb3b1d1d7,The Siege of Sleeping Mountain,legend-of-the-five-rings_the-siege-of-sleeping-mountain,"[""Wizards of the Coast""]",,1999,6,,100,{}
 ffb66000-7db4-446c-9d0f-87d3affd7466,4a597814-2f03-47fc-8957-65cdb3b1d1d7,Time of the Void,legend-of-the-five-rings_time-of-the-void,"[""Wizards of the Coast""]",,1997,8,,229,{}
-6cef585c-381a-4e13-98dc-d47e1ca81914,d7f21ae7-0497-49b4-831c-470b76c5f6de,Base Set,l-o-l--surprise!-dance-off!_base-set,[],,,,,450,{}
 20a2433b-19dc-4a55-b438-8684192d0a9a,4917ff30-49b9-4404-81ec-08efc64b44a3,Base Set,looney-tunes-trading-card-game_base-set,"[""Wizards of the Coast""]",,2000,10,,210,{}
 1d99a012-2633-4eea-b3f3-920ff0920979,f596fb75-b8d9-4bf9-8116-92b90cd3674d,Awakening,magi-nation-duel_awakening,"[""Interactive Imagination""]",,2000,10,,190,{}
 99e263cc-949d-415b-b747-5096f0b1ef00,f596fb75-b8d9-4bf9-8116-92b90cd3674d,Dream's End,magi-nation-duel_dream-s-end,[],,,,,,{}
@@ -400,6 +400,13 @@ a75422d7-d6d0-444f-b967-889296b7ec6a,f596fb75-b8d9-4bf9-8116-92b90cd3674d,Limite
 1d46cfac-ef73-4b3a-ad8e-b3b857dc98c5,f596fb75-b8d9-4bf9-8116-92b90cd3674d,Promos,magi-nation-duel_promos,[],,,,,,{}
 cf837d3c-5527-4d23-b442-aaa900ed2c56,f596fb75-b8d9-4bf9-8116-92b90cd3674d,Unlimited,magi-nation-duel_unlimited,[],,,,,,{}
 b30f0f4b-50d1-476d-a5f4-cbc82f40b55c,f596fb75-b8d9-4bf9-8116-92b90cd3674d,Voice of the Storms,magi-nation-duel_voice-of-the-storms,[],,,,,,{}
+0fd915a4-9d1e-45d6-b69f-a06ac8bbc7ca,f3a06b5f-369e-4f3f-af60-eec2e25a11bd,Base Set,marvel-super-heroes-collector-s-club-trading-card-game_base-set,[],,,,,,{}
+8bddb1d1-89a8-4b38-b556-d16ce6b1bd38,2ed4b324-37dd-4aff-aef9-a5c2afa0fb6c,Cryptid Nation,metazoo-(2021)_cryptid-nation,[],,,,,,{}
+7ea61342-7e6d-496c-8a7b-f65320439b5f,2ed4b324-37dd-4aff-aef9-a5c2afa0fb6c,Native,metazoo-(2021)_native,[],,,,,,{}
+eac996ba-9217-457b-b7e4-9d2190819933,2ed4b324-37dd-4aff-aef9-a5c2afa0fb6c,Nightfall,metazoo-(2021)_nightfall,[],,,,,,{}
+23891d59-c482-4d18-8de1-4ac6ecb5217a,2ed4b324-37dd-4aff-aef9-a5c2afa0fb6c,Seance,metazoo-(2021)_seance,[],,,,,,{}
+24c731fd-dc20-49e2-a9e7-f47e2ef39f25,2ed4b324-37dd-4aff-aef9-a5c2afa0fb6c,UFO,metazoo-(2021)_ufo,[],,,,,,{}
+b8db35c0-efe9-4e79-9a18-76f436fbbba1,2ed4b324-37dd-4aff-aef9-a5c2afa0fb6c,Wilderness,metazoo-(2021)_wilderness,[],,,,,,{}
 9c59590e-1a92-4581-beea-7ee6d9ca4e4a,76a7f627-f2f9-47b4-9c9e-81d786ffad8d,Against the Shadow,middle-earth_against-the-shadow,"[""Iron Crown Enterprises""]",,1997,8,,170,{}
 2f191452-632b-46f7-98df-4bdb505d7e3e,76a7f627-f2f9-47b4-9c9e-81d786ffad8d,Dark Minions,middle-earth_dark-minions,"[""Iron Crown Enterprises""]",,1996,11,,180,{}
 2ae76714-6ce7-487d-8b55-5db34c1a36ce,76a7f627-f2f9-47b4-9c9e-81d786ffad8d,Other,middle-earth_other,"[""Iron Crown Enterprises""]",,,,,13,{}
@@ -411,9 +418,12 @@ b268390b-b376-4e0e-a7d9-31480559e034,76a7f627-f2f9-47b4-9c9e-81d786ffad8d,The Wi
 899c0a97-9e82-4e9e-9b19-846bb8317c4d,76a7f627-f2f9-47b4-9c9e-81d786ffad8d,Unlimited,middle-earth_unlimited,"[""Iron Crown Enterprises""]",,1996,4,,484,{}
 338fa086-121b-48d8-8676-32df233373cc,3665e79c-f379-4b3f-9157-9bdb6db5ba10,MLB Showdown 2000,mlb-showdown-2000_mlb-showdown-2000,"[""Wizards of the Coast""]",,2000,4,,512,{}
 112b2a5c-6784-4206-8d50-06b192d12bd7,3665e79c-f379-4b3f-9157-9bdb6db5ba10,Pennant Run,mlb-showdown-2000_pennant-run,"[""Wizards of the Coast""]",,2000,9,,175,{}
+feea1a8f-099e-46ea-b064-642323516a90,4b3e32df-f703-4364-bdf6-3f688f27f490,Alpha Series,monster-magic_alpha-series,[],,,,,,{}
 ba37fa48-dfd4-4b5f-9d5d-69467f5d35ee,b4d373ca-6191-4391-8533-3cfa4452ae04,Base Set,monster-rancher_base-set,"[""Artbox""]",,2000,6,,99,{}
 27c41bd4-f374-4c4d-872a-73184924011b,8ad40f3e-887a-40a6-b6b3-61eb66161ef4,Base Set,monty-python-and-the-holy-grail-collectible-card-game_base-set,"[""Kenzer & Company""]",,1996,6,,314,{}
+6044a07c-4719-4505-bac3-d5356dc2e3a0,8ad40f3e-887a-40a6-b6b3-61eb66161ef4,Monty Python and the Holy Grail,monty-python-and-the-holy-grail-collectible-card-game_monty-python-and-the-holy-grail,[],,,,,,{}
 2e559d9a-a474-4499-84ac-ddc41840c4b3,8ad40f3e-887a-40a6-b6b3-61eb66161ef4,Taunt You a Second Time,monty-python-and-the-holy-grail-collectible-card-game_taunt-you-a-second-time,[],,2000,8,,158,{}
+70eae3e4-e542-4ed3-b513-cb339fca5f64,8ad40f3e-887a-40a6-b6b3-61eb66161ef4,Taunt You a Second Time!,monty-python-and-the-holy-grail-collectible-card-game_taunt-you-a-second-time!,[],,,,,,{}
 a4d62d55-08b8-4696-ae77-26a159a8ef7a,192384df-ddc4-4c8f-9ef7-2dd82e628412,Base Set,mortal-kombat-kard-game_base-set,"[""Brady Games""]",,1996,1,,300,{}
 28714289-83fb-4e66-91b5-3ab239b87737,75228c6a-3989-4ec3-9b63-3c9cb5cb0fde,Base Set,munchkin-collectible-card-game_base-set,"[""Steve Jackson Games""]",,,,,,{}
 7a7bdc1f-7d6f-41d6-8feb-1a95c312092d,75228c6a-3989-4ec3-9b63-3c9cb5cb0fde,Fashion Furious,munchkin-collectible-card-game_fashion-furious,"[""Steve Jackson Games""]",,,,,,{}
@@ -440,6 +450,7 @@ b35a356b-0dbd-49da-b3fb-cd532f9566c0,6391307d-e305-49ee-9a5e-7b86c63c81d2,Shadow
 fef79338-114d-4225-a576-0eeecc96b228,6391307d-e305-49ee-9a5e-7b86c63c81d2,Standard Edition,on-the-edge_standard-edition,"[""Atlas Games"", ""Trident""]",,1995,3,,270,{}
 19c8c0bd-53bc-41f0-a7bb-99e8c1f19452,6391307d-e305-49ee-9a5e-7b86c63c81d2,The Cut-Ups Project,on-the-edge_the-cut-ups-project,"[""Atlas Games"", ""Trident""]",,1995,2,,90,{}
 3a0201d3-8242-4a87-b0a0-e81f537e39af,6391307d-e305-49ee-9a5e-7b86c63c81d2,Unlimited Edition,on-the-edge_unlimited-edition,"[""Atlas Games"", ""Trident""]",,1994,12,,269,{}
+de253988-fadd-4f54-be9d-3e1585d94178,f31279db-1664-410d-ab37-c839514c9b8c,Base Set,ophidian-2350_base-set,[],,,,,,{}
 9d90eebe-3378-40fe-a6bb-da3e252508c4,724ac9f6-f6ca-41b2-89b5-517d8552fa7f,DC,overpower_dc,"[""Fleer/Skybox""]",,1996,10,,334,{}
 d4bc1aff-d42d-472d-bb60-e4f802e21caf,724ac9f6-f6ca-41b2-89b5-517d8552fa7f,Image,overpower_image,"[""Fleer/Skybox""]",,1998,9,,217,{}
 2ba4fd58-50c7-4d91-be03-eac56d8b00f6,724ac9f6-f6ca-41b2-89b5-517d8552fa7f,IQ,overpower_iq,"[""Fleer/Skybox""]",,1997,2,,279,{}
@@ -452,11 +463,12 @@ f925f650-cb7b-464a-a8d7-c8e51678b32b,724ac9f6-f6ca-41b2-89b5-517d8552fa7f,Justic
 2bdbb5f9-2509-4e6c-b469-77865cd5cdc0,724ac9f6-f6ca-41b2-89b5-517d8552fa7f,Power Surge,overpower_power-surge,"[""Fleer/Skybox""]",,1996,1,,269,{}
 3eb6290f-9a55-4e3a-9e1b-b5bc1ac25bf9,724ac9f6-f6ca-41b2-89b5-517d8552fa7f,X-Men,overpower_x-men,"[""Fleer/Skybox""]",,1998,12,,217,{}
 4cf10003-1555-4698-9289-975ce8e2a3d3,6f0b42b7-9f5a-4226-9be9-bdc0eb3c59d9,Premiere,playoff-one-on-one-hockey-challenge_premiere,"[""Playoff""]",,1995,9,,330,{}
-cf7d3caf-ee4b-4530-a0f4-485ff5500068,1939fb2f-6422-424c-9cf4-58b833f42c0f,First Strike,powercardz_first-strike,"[""Caliber Game Systems""]",,1995,7,,300,{}
+cf7d3caf-ee4b-4530-a0f4-485ff5500068,1939fb2f-6422-424c-9cf4-58b833f42c0f,First Strike,powercardz_first-strike,"[""Caliber Game Systems""]",,1995,7,,300,"{""set_name_notes"": ""Name is per Scrye Collectible Card Game Checklist & Price Guide First Edition""}"
+e800604d-3045-49cd-bf83-bab6afef6ab2,1939fb2f-6422-424c-9cf4-58b833f42c0f,Other,powercardz_other,[],,,,,,{}
 66904d33-ebd1-4a64-af19-80c2fb7da9bd,1939fb2f-6422-424c-9cf4-58b833f42c0f,Spawn,powercardz_spawn,"[""Caliber Game Systems""]",,1995,9,,190,{}
 d4b20a7c-2df6-41db-b8d2-49c8522dd7f7,52c5b59a-509f-4342-b101-c52d3d1b8ef9,Limited,quest-for-the-grail_limited,"[""Horizon Games"", ""Stone Ring""]",,1995,12,,280,{}
 edc62823-0cd5-4737-8e4e-ff74f1a275f7,52c5b59a-509f-4342-b101-c52d3d1b8ef9,Preview Edition,quest-for-the-grail_preview-edition,"[""Horizon Games"", ""Stone Ring""]",,1995,8,,125,{}
-eecf20d3-1fe8-46ac-80f4-c68cd954a72c,4acabae0-427c-4043-8f6c-2e7e76c4381f,Base Set,racing-challenge_base-set,"[""Upper Deck""]",,2000,8,,227,{}
+eecf20d3-1fe8-46ac-80f4-c68cd954a72c,4acabae0-427c-4043-8f6c-2e7e76c4381f,1st Edition,racing-challenge_1st-edition,"[""Upper Deck""]",,2000,8,,227,{}
 f8f68698-4cf2-4947-aab0-deafc1ed1f93,9ab1a105-72ab-431e-8790-459a4ed94346,Legacy of the Tribes,rage-(1995)_legacy-of-the-tribes,"[""White Wolf""]",,1996,10,,215,{}
 8cb6ba87-7d6a-4e5e-91b2-efdab8dfb08b,9ab1a105-72ab-431e-8790-459a4ed94346,Limited,rage-(1995)_limited,"[""White Wolf""]",,1995,5,,321,{}
 400b0d75-8bea-4fd9-9cc2-3f88f8cc9c7c,9ab1a105-72ab-431e-8790-459a4ed94346,Other,rage-(1995)_other,"[""White Wolf""]",,,,,16,{}
@@ -473,14 +485,52 @@ d15c858d-8f42-497e-8811-f57fae225d20,f2758b0e-2f54-4ee3-91b2-103d21e84f51,Phase 
 facc0148-79cf-49b8-b671-7526264b8484,f2758b0e-2f54-4ee3-91b2-103d21e84f51,Phase 6,rage-(1998)_phase-6,"[""Wizards of the Coast""]",,1999,1,,88,{}
 32370f2a-df57-472a-ad39-0f629ee1325f,129c63a2-770d-4086-91c0-4f9254de1142,1995 Expansion Teams,red-zone_1995-expansion-teams,"[""Donruss"", ""NXT Games""]",,1995,12,,98,{}
 59e45b7d-9c9f-40c4-a959-aeb78468147a,129c63a2-770d-4086-91c0-4f9254de1142,Premiere,red-zone_premiere,"[""Donruss"", ""NXT Games""]",,1995,10,,336,{}
-71dbe6f7-d3ff-4150-b433-ccc7d94fdd29,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Limited,redemption_limited,"[""Cactus Game Design""]",,1995,7,,162,{}
-c2bf0acb-048c-4790-9cf3-82c147f884f6,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Second Edition,redemption_second-edition,"[""Cactus Game Design""]",,2000,9,,189,{}
+2ab4fe58-6c3f-4164-b553-7ec7071fda31,1c2b43e4-2b30-461b-aeb9-107c8c272d27,AB Cloud of Witnesses,redemption_ab-cloud-of-witnesses,[],,,,,,{}
+c6c58514-805a-4ce3-8765-dec0d0e93a4e,1c2b43e4-2b30-461b-aeb9-107c8c272d27,AB Revelations of John,redemption_ab-revelations-of-john,[],,,,,,{}
+b1c09b0d-f32e-4876-b96c-f73d95ce051f,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Angel Wars,redemption_angel-wars,[],,,,,,{}
+3289c1aa-9a2e-4148-a6b3-3cf04cf81f77,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Cloud of Witnesses,redemption_cloud-of-witnesses,[],,,,,,{}
+809c3f58-1d4e-4d10-a5d6-3edc69f3e6d7,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck A (Limited),redemption_deck-a-(limited),[],,,,,,{}
+8c0b9ce1-37ca-4da8-a820-589662994dd1,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck A (Unlimited),redemption_deck-a-(unlimited),[],,,,,,{}
+8242f690-9a9a-446b-a954-a7202d96e483,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck B (Limited),redemption_deck-b-(limited),[],,,,,,{}
+d7088e55-7828-47e2-9699-68f0b91c4172,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck B (Unlimited),redemption_deck-b-(unlimited),[],,,,,,{}
+16ebdee2-0b94-4dcb-be6b-4e90a5182eb8,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck C (1st),redemption_deck-c-(1st),[],,,,,,{}
+cfb537ea-213c-4e26-9377-4acabb212320,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck C (2nd),redemption_deck-c-(2nd),[],,,,,,{}
+f95a9138-d5f0-406f-a161-c5a9d70084af,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck D (1st),redemption_deck-d-(1st),[],,,,,,{}
+23fc3823-6652-4585-bf4c-0fa31dd03322,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck D (2nd),redemption_deck-d-(2nd),[],,,,,,{}
+f6a138a2-fcde-46e3-a88f-b452ab8a1001,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck E,redemption_deck-e,[],,,,,,{}
+f42a673c-a43d-4d6a-b49a-7f32e10ff736,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck F,redemption_deck-f,[],,,,,,{}
+e6a092aa-51b4-4e12-815d-55cddc65b5f1,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck G,redemption_deck-g,[],,,,,,{}
+e928b411-cd76-4d82-b729-771b55d2b912,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck H,redemption_deck-h,[],,,,,,{}
+63d0c664-a2d5-450d-83d9-6a0e0ef28272,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck I,redemption_deck-i,[],,,,,,{}
+f347b89f-5778-4d82-98dc-123d2e1c287d,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Deck J,redemption_deck-j,[],,,,,,{}
+8a64db56-390b-473c-9376-2d3b395d3f52,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Faith of Our Fathers (2007),redemption_faith-of-our-fathers-(2007),[],,,,,,{}
+1c7d043e-9d1e-4e81-b0ad-83150765a372,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Faith of Our Fathers (2011),redemption_faith-of-our-fathers-(2011),[],,,,,,{}
+1f1f5e8c-7cc2-4441-bd3a-3287da442c9d,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Legacy Rare,redemption_legacy-rare,[],,,,,,{}
+71dbe6f7-d3ff-4150-b433-ccc7d94fdd29,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Limited Edition,redemption_limited-edition,"[""Cactus Game Design""]",,1995,7,,162,{}
+c2bf0acb-048c-4790-9cf3-82c147f884f6,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Other,redemption_other,"[""Cactus Game Design""]",,2000,9,,189,{}
+26aad6ee-dd9a-4af5-9ff5-4eb8a86d1fa7,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Prophecies of Christ (Phase 1),redemption_prophecies-of-christ-(phase-1),[],,,,,,{}
+c32b930e-3e4d-42ce-b374-61654864eba4,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Prophecies of Christ (Phase 2),redemption_prophecies-of-christ-(phase-2),[],,,,,,{}
+73bcd1fa-2e20-4f5c-8963-2c55c5cf1457,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Revelation of John,redemption_revelation-of-john,[],,,,,,{}
+789a4cb3-28c6-4ae9-a933-e7d35fa7cea6,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Rock of Ages (2008),redemption_rock-of-ages-(2008),[],,,,,,{}
+387694db-58aa-4112-9c76-662478d8deea,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Rock of Ages (2011),redemption_rock-of-ages-(2011),[],,,,,,{}
+ddc0f75d-00f9-4cd5-b26b-c7ffff576588,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Rock of Ages (2013),redemption_rock-of-ages-(2013),[],,,,,,{}
+3b8b4dcc-8d45-4ca0-ba8d-8a0e234a3bb8,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Apostles,redemption_the-apostles,[],,,,,,{}
+e111f977-3b3b-4ae6-9fb8-b71e477e7d84,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Disciples,redemption_the-disciples,[],,,,,,{}
+154c749f-13d4-42f4-b557-7becae5edb75,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Early Church (Phase 1),redemption_the-early-church-(phase-1),[],,,,,,{}
+e7b61f2d-8ed1-4969-9415-caacac4bfdcd,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Early Church (Phase 2),redemption_the-early-church-(phase-2),[],,,,,,{}
+50ff44f7-68b1-4d11-a47f-d53b822671e3,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Fall of Man,redemption_the-fall-of-man,[],,,,,,{}
+317b213d-81e4-45ce-ac12-b18bfb73663a,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Kings,redemption_the-kings,[],,,,,,{}
+ada7cbe8-1a8b-4293-80e6-0ab9bbc66980,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Patriarchs,redemption_the-patriarchs,[],,,,,,{}
+f3a27dce-8408-47cc-b88b-2e1d2c57dc20,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Persecuted Church,redemption_the-persecuted-church,[],,,,,,{}
+c1d5abc3-f8c0-4899-85fa-377cdc95d6ea,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Priests,redemption_the-priests,[],,,,,,{}
 3db41c43-56ed-4214-a503-1fe5596de915,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Prophets,redemption_the-prophets,"[""Cactus Game Design""]",,1996,7,,106,{}
 1bf8fb39-f4cb-41b1-b819-48aca813902e,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Warriors,redemption_the-warriors,"[""Cactus Game Design""]",,1999,6,,171,{}
 6bf69201-c97a-4cea-af0e-a04693ad2ad7,1c2b43e4-2b30-461b-aeb9-107c8c272d27,The Women,redemption_the-women,"[""Cactus Game Design""]",,1997,7,,82,{}
-680c4233-6c1b-4b01-9373-62ccd80f237e,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Unlimited,redemption_unlimited,"[""Cactus Game Design""]",,1995,11,,162,{}
+8787e518-207a-4014-9f09-eb854f7dbcb7,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Thesaurus Ex Preteritus,redemption_thesaurus-ex-preteritus,[],,,,,,{}
+680c4233-6c1b-4b01-9373-62ccd80f237e,1c2b43e4-2b30-461b-aeb9-107c8c272d27,Unlimited Edition,redemption_unlimited-edition,"[""Cactus Game Design""]",,1995,11,,162,{}
 6a66fe26-814f-4424-9e52-1ff18776a364,2cf52bab-eccb-472d-a9b9-d47bb3f1b11d,Base Set,ruinsworld_base-set,"[""Medallion Simulations""]",,1995,12,,199,{}
 aea8798d-76c0-45e8-b9bd-1992665793fe,2c346542-0a1a-4902-87f2-5a77d60d4cf5,Premiere,sailor-moon-collectible-card-game_premiere,"[""Dart Flipcards""]",,2000,7,,160,{}
+05a4fb59-e06b-4ef1-ba48-e6a90088f572,8a2df42a-283f-49cb-9e1a-4ae10c5baeef,Base Set,sand-land-tactical-card-battle_base-set,[],,,,,,{}
 b62d13ed-122b-407b-b657-97b3dcefacea,26274600-5b46-4d91-8f35-4ff8b1b9d4a0,Base Set,scooby-doo!-expandable-card-game_base-set,"[""Journeyman Press""]",,2000,8,,219,{}
 4a1545af-b7bc-470f-9577-506a2d6c3196,2e3db55d-0824-44dd-a3f0-8d5288175dd8,Flashpoint,shadowfist_flashpoint,"[""Daedalus""]",,1996,3,,145,{}
 4005f80a-13bd-4d2c-a40e-e827d367622e,2e3db55d-0824-44dd-a3f0-8d5288175dd8,Limited,shadowfist_limited,"[""Daedalus""]",,1995,6,,323,{}
@@ -496,8 +546,75 @@ c1b2662c-40e2-48a0-9890-520fdef70648,cd80b1d4-3b2a-4422-b264-9ab7bb1da15e,Chicag
 aec63fe1-e0e8-4f41-94a6-3849089b6a81,cd80b1d4-3b2a-4422-b264-9ab7bb1da15e,New York City,sim-city--the-card-game_new-york-city,"[""Mayfair Games""]",,1996,5,,120,{}
 74eb0287-3f7e-43bc-a204-c010f1e46a15,cd80b1d4-3b2a-4422-b264-9ab7bb1da15e,Other,sim-city--the-card-game_other,"[""Mayfair Games""]",,,,,110,{}
 7a080392-8cdf-49c2-aa77-bd68a11f8909,cd80b1d4-3b2a-4422-b264-9ab7bb1da15e,"Washington, D.C.","sim-city--the-card-game_washington,-d-c-","[""Mayfair Games""]",,1996,5,,120,{}
+a5737aeb-c6c6-4366-a325-eb265b1b0bb7,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,All Good Things,star-trek-customizable-card-game_all-good-things,[],,,,,,{}
+718c70f9-7023-4691-b3a7-3f1fe7cc463a,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Alternate Universe,star-trek-customizable-card-game_alternate-universe,[],,,,,,{}
+1fa1ef78-2d9f-4a68-a0aa-8eb26a0308fa,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Armada,star-trek-customizable-card-game_armada,[],,,,,,{}
+89aff619-867d-4d84-aac9-81fb7c47f039,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Away Team Pack,star-trek-customizable-card-game_away-team-pack,[],,,,,,{}
+64859f77-5c27-4f27-91ad-3938ef7f3815,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Blaze of Glory,star-trek-customizable-card-game_blaze-of-glory,[],,,,,,{}
+68b1bd63-cc14-48eb-a70c-6302af2b344b,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Collectors Tin,star-trek-customizable-card-game_collectors-tin,[],,,,,,{}
+0907fb60-4962-4ce6-afc4-0115ab02ce98,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Deep Space Nine,star-trek-customizable-card-game_deep-space-nine,[],,,,,,{}
+b36c9104-0546-41d1-81c9-b7bcfdd07589,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Enhanced First Contact,star-trek-customizable-card-game_enhanced-first-contact,[],,,,,,{}
+6e5cf1cd-bd53-4d47-a8a5-f72394241c0a,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Enhanced Premiere,star-trek-customizable-card-game_enhanced-premiere,[],,,,,,{}
+fa0c6783-a9fd-482a-9356-aef1ff1c3402,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Enterprise Collection,star-trek-customizable-card-game_enterprise-collection,[],,,,,,{}
+d500cda0-a70b-4e19-82c1-cccd9e736d2e,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,First Anthology,star-trek-customizable-card-game_first-anthology,[],,,,,,{}
+c6e6209d-7901-45a6-81de-c52d57bfa66e,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,First Contact,star-trek-customizable-card-game_first-contact,[],,,,,,{}
+7c53fa0e-7733-42b7-9f0f-6c866e8b7ca4,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Holodeck Adventures,star-trek-customizable-card-game_holodeck-adventures,[],,,,,,{}
+6e6292f1-eb02-4dd7-a3d2-ce3246d70bed,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Introductory Two-Player Game,star-trek-customizable-card-game_introductory-two-player-game,[],,,,,,{}
+c2b132b5-741f-4484-8733-6a6825e529c8,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Mirror Mirror,star-trek-customizable-card-game_mirror-mirror,[],,,,,,{}
+1404268a-7aa2-4150-81e4-0a7023ad34c5,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Official Tournament Sealed Deck,star-trek-customizable-card-game_official-tournament-sealed-deck,[],,,,,,{}
+f7ff030f-cd4f-4aaa-a5b2-8cf42d610136,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Other,star-trek-customizable-card-game_other,[],,,,,,{}
+2cbb54b8-fc1f-485e-9a18-84a715920cd3,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Premiere Limited,star-trek-customizable-card-game_premiere-limited,[],,,,,,{}
+43724310-d640-466e-9ffa-7697624580c7,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Premiere Unlimited 94,star-trek-customizable-card-game_premiere-unlimited-94,[],,,,,,{}
+74e1d481-30e4-46f0-aa09-e19c0dfbfc05,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Premiere Unlimited 95,star-trek-customizable-card-game_premiere-unlimited-95,[],,,,,,{}
+39792a52-c011-448a-8b50-6b1684cd7094,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Q-Continuum,star-trek-customizable-card-game_q-continuum,[],,,,,,{}
+cfbb9d42-9fb3-4cbf-b089-e1d57f5aaf4c,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Reflections: The First Five-Year Mission,star-trek-customizable-card-game_reflections--the-first-five-year-mission,[],,,,,,{}
+30d176ce-8719-46d0-8b0d-5632b9006630,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Reflections (reprints),star-trek-customizable-card-game_reflections-(reprints),[],,,,,,{}
+bb589b3e-c588-4b2b-8a7d-84848474e658,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Rules Of Acquisition,star-trek-customizable-card-game_rules-of-acquisition,[],,,,,,{}
+90f4c659-3a27-4777-823b-44010ff9edd7,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Second Anthology,star-trek-customizable-card-game_second-anthology,[],,,,,,{}
+5b10b3e4-c76c-42b4-9298-440a2562b9f4,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Starter Deck II,star-trek-customizable-card-game_starter-deck-ii,[],,,,,,{}
+696b5d8c-cf45-48ea-9277-51dece11896d,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,The Borg,star-trek-customizable-card-game_the-borg,[],,,,,,{}
+f77a5242-b35e-46a8-ac23-c8c9fa0f660d,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,The Dominion,star-trek-customizable-card-game_the-dominion,[],,,,,,{}
+a5e6792e-e701-4823-8399-043efcfa05fa,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,The Fajo Collection,star-trek-customizable-card-game_the-fajo-collection,[],,,,,,{}
+10ea16d6-5808-4c01-bd13-2428769bdaeb,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,The Motion Pictures,star-trek-customizable-card-game_the-motion-pictures,[],,,,,,{}
+9823b5d2-ab96-403f-b386-4b8de621006f,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,The Trouble With Tribbles,star-trek-customizable-card-game_the-trouble-with-tribbles,[],,,,,,{}
+c5b94cb9-a996-4b8c-9521-b2176d13c54e,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Voyager,star-trek-customizable-card-game_voyager,[],,,,,,{}
+1f7bfc04-10fc-4d45-890a-5333388133d0,b3cbaa29-164d-4de5-9b2c-9dc19c534b11,Warp Pack,star-trek-customizable-card-game_warp-pack,[],,,,,,{}
+31c58767-4de8-4680-a854-138c0cf06b19,31064721-3925-4bb7-9be8-45fe1c88e4c1,A New Hope Limited,star-wars-customizable-card-game_a-new-hope-limited,[],,,,,,{}
+9e9391d5-8f74-4f6f-bd73-c34f907f70f3,31064721-3925-4bb7-9be8-45fe1c88e4c1,A New Hope Unlimited,star-wars-customizable-card-game_a-new-hope-unlimited,[],,,,,,{}
+3f8b3e9c-83d4-4667-83f9-1907691bc237,31064721-3925-4bb7-9be8-45fe1c88e4c1,Cloud City,star-wars-customizable-card-game_cloud-city,[],,,,,,{}
+81bc33e9-9b04-4562-b681-5c8f8a9ab733,31064721-3925-4bb7-9be8-45fe1c88e4c1,Coruscant,star-wars-customizable-card-game_coruscant,[],,,,,,{}
+f8289ca2-f43b-49b2-8bb2-65770559a700,31064721-3925-4bb7-9be8-45fe1c88e4c1,Dagobah Limited,star-wars-customizable-card-game_dagobah-limited,[],,,,,,{}
+e5c7a809-ea8f-4726-b5aa-c087b665aeda,31064721-3925-4bb7-9be8-45fe1c88e4c1,Dagobah Unlimited,star-wars-customizable-card-game_dagobah-unlimited,[],,,,,,{}
+20091b7d-728d-49fb-856b-1ae579e44e7a,31064721-3925-4bb7-9be8-45fe1c88e4c1,Death Star II,star-wars-customizable-card-game_death-star-ii,[],,,,,,{}
+e593e5ad-d833-47a2-98cf-c44d5b5202f0,31064721-3925-4bb7-9be8-45fe1c88e4c1,Endor,star-wars-customizable-card-game_endor,[],,,,,,{}
+2c4ea4a1-c531-4a2f-a975-74ef6392fc02,31064721-3925-4bb7-9be8-45fe1c88e4c1,Enhanced Cloud City,star-wars-customizable-card-game_enhanced-cloud-city,[],,,,,,{}
+1513e610-46ff-42ed-93c1-8f058eedeaf0,31064721-3925-4bb7-9be8-45fe1c88e4c1,Enhanced Jabba's Palace,star-wars-customizable-card-game_enhanced-jabba-s-palace,[],,,,,,{}
+acd5b950-8b23-40c3-b737-339bd4bf4499,31064721-3925-4bb7-9be8-45fe1c88e4c1,Enhanced Premiere,star-wars-customizable-card-game_enhanced-premiere,[],,,,,,{}
+a27bf993-2cec-469c-9c05-f1021207f769,31064721-3925-4bb7-9be8-45fe1c88e4c1,First Anthology,star-wars-customizable-card-game_first-anthology,[],,,,,,{}
+2766cb9a-42d8-49a8-8458-03f75f937499,31064721-3925-4bb7-9be8-45fe1c88e4c1,Hoth Limited,star-wars-customizable-card-game_hoth-limited,[],,,,,,{}
+8a30740e-344a-48b5-9499-3164ae147435,31064721-3925-4bb7-9be8-45fe1c88e4c1,Hoth Unlimited,star-wars-customizable-card-game_hoth-unlimited,[],,,,,,{}
+f5b7ef34-34e1-479d-9c2f-13f8255f2150,31064721-3925-4bb7-9be8-45fe1c88e4c1,Jabba's Palace,star-wars-customizable-card-game_jabba-s-palace,[],,,,,,{}
+16b3ac02-f574-47d7-8ea4-8d16a1399393,31064721-3925-4bb7-9be8-45fe1c88e4c1,Jabba's Palace Sealed Deck,star-wars-customizable-card-game_jabba-s-palace-sealed-deck,[],,,,,,{}
+1352a0df-f83d-4a6f-9f4e-cedf3e1bb5a7,31064721-3925-4bb7-9be8-45fe1c88e4c1,Jedi Pack,star-wars-customizable-card-game_jedi-pack,[],,,,,,{}
+4fdd9ded-e821-40b3-b3d2-d2b41ecbdfcb,31064721-3925-4bb7-9be8-45fe1c88e4c1,Official Tournament Sealed Deck,star-wars-customizable-card-game_official-tournament-sealed-deck,[],,,,,,{}
+4a03dc9a-0280-4366-8ddd-0477dd5f2cdb,31064721-3925-4bb7-9be8-45fe1c88e4c1,Other,star-wars-customizable-card-game_other,[],,,,,,{}
+e557e95a-945b-4bd9-aa12-02f658c7e7eb,31064721-3925-4bb7-9be8-45fe1c88e4c1,Premiere 2 Player,star-wars-customizable-card-game_premiere-2-player,[],,,,,,{}
+c4e7a64f-b438-48bf-8774-b6f9fe3160a8,31064721-3925-4bb7-9be8-45fe1c88e4c1,Premiere Limited,star-wars-customizable-card-game_premiere-limited,[],,,,,,{}
+7ad2d78b-b916-4996-b6ac-d8885887a21c,31064721-3925-4bb7-9be8-45fe1c88e4c1,Premiere Unlimited,star-wars-customizable-card-game_premiere-unlimited,[],,,,,,{}
+877b443a-ec41-42d6-ac66-8bc396599c1c,31064721-3925-4bb7-9be8-45fe1c88e4c1,Rebel Leader Cards,star-wars-customizable-card-game_rebel-leader-cards,[],,,,,,{}
+247e3ecf-0bf1-45a5-b421-9c9911f891f3,31064721-3925-4bb7-9be8-45fe1c88e4c1,Reflections,star-wars-customizable-card-game_reflections,[],,,,,,{}
+a5516597-e272-4a47-8016-ecb26bceb1cf,31064721-3925-4bb7-9be8-45fe1c88e4c1,Reflections II,star-wars-customizable-card-game_reflections-ii,[],,,,,,{}
+6392360f-ef3b-431d-b53a-0e281e7f9add,31064721-3925-4bb7-9be8-45fe1c88e4c1,Reflections III,star-wars-customizable-card-game_reflections-iii,[],,,,,,{}
+5c1b07d6-c6a6-4a9d-812f-974a8653f1af,31064721-3925-4bb7-9be8-45fe1c88e4c1,Second Anthology,star-wars-customizable-card-game_second-anthology,[],,,,,,{}
+fe8879dd-96dc-45c9-9161-6db77572657f,31064721-3925-4bb7-9be8-45fe1c88e4c1,Special Edition,star-wars-customizable-card-game_special-edition,[],,,,,,{}
+670d0646-0a82-426f-8edb-8399448df8d5,31064721-3925-4bb7-9be8-45fe1c88e4c1,Tatooine,star-wars-customizable-card-game_tatooine,[],,,,,,{}
+ee7ce50c-81a9-4ea4-a1ae-4bc5bc3b820a,31064721-3925-4bb7-9be8-45fe1c88e4c1,The Empire Strikes Back 2 Player,star-wars-customizable-card-game_the-empire-strikes-back-2-player,[],,,,,,{}
+fe317630-43c6-4c99-b082-db33779e20ce,31064721-3925-4bb7-9be8-45fe1c88e4c1,Theed Palace,star-wars-customizable-card-game_theed-palace,[],,,,,,{}
+68a023cb-d209-4524-b5d7-10e473aae948,31064721-3925-4bb7-9be8-45fe1c88e4c1,Third Anthology,star-wars-customizable-card-game_third-anthology,[],,,,,,{}
+7f831a48-895d-4d40-9acf-79f493e9bf5d,31064721-3925-4bb7-9be8-45fe1c88e4c1,Tournament Promotional Foil Cards,star-wars-customizable-card-game_tournament-promotional-foil-cards,[],,,,,,{}
 7a500aff-0ab0-4531-ab6a-8e10d6cb1c79,9895000d-10ca-493c-924b-869896c15d9c,Socalia,stoked!-skateboarding-must-die_socalia,[],,,,,,{}
 da7d02e6-1189-46b1-9607-084597ee1b47,9895000d-10ca-493c-924b-869896c15d9c,Vegalas,stoked!-skateboarding-must-die_vegalas,[],,,,,,{}
+df89a25d-ed57-48e7-bc1a-81c40dc88209,4b0ce054-82e1-4e49-b454-c0939724f738,Limited Edition,tempest-of-the-gods_limited-edition,[],,,,,,{}
 54c0ed2a-701d-4894-b3b9-84fa771d9488,d81e88bf-efb1-4b7f-817a-2ad44a7affaf,Mandible,terror_mandible,"[""Kris Silver""]",,,,,,{}
 371a24ea-dda0-4666-b2e5-adb45448457f,d81e88bf-efb1-4b7f-817a-2ad44a7affaf,Raiders,terror_raiders,"[""Kris Silver""]",,,,,,{}
 443bfde5-4c33-47e4-8a53-6dd2abebf502,e1c45ebc-6826-4545-bb1a-bf089d78feb5,Limited Edition,the-crow_limited-edition,"[""Heartbreaker Hobbies"", ""Target Games AB""]",1,1995,11,,122,{}
@@ -530,10 +647,17 @@ d51a977b-c035-49be-9ba0-1eb02ba25675,f22bd713-2989-4642-b772-697ef12168e2,Seed 3
 f400dd4b-1d64-476a-afa1-ef8c0250ed98,f22bd713-2989-4642-b772-697ef12168e2,Starter 2013,the-spoils_starter-2013,[],,,,,,{}
 7f672f93-8d16-450c-834d-b4897109df7d,f22bd713-2989-4642-b772-697ef12168e2,Starter Set 2007,the-spoils_starter-set-2007,[],,,,,,{}
 d4957c30-263f-4d26-ab40-ef45b95e04bc,f22bd713-2989-4642-b772-697ef12168e2,Ungodly Mess,the-spoils_ungodly-mess,[],,,,,,{}
+13509992-95cc-4e7f-9626-e1110dc47a7e,d9ac6b36-56a6-4597-9e75-2fd8fd118c8f,Base Set,the-super-mario-bros-movie-trading-card-game_base-set,[],,,,,,{}
 350b308c-39cf-4c43-ad39-4262061517c8,3b04c4a1-7b08-4231-8ac5-d9d399953ed8,Empire Builders,time-rift_empire-builders,[],,,,,,{}
+6d71137d-8b50-4390-94d9-dfd2715ab612,8b66de75-cfd7-4116-8e61-86cc5beae4f6,Base Set,tomb-raider-collectible-card-game_base-set,[],,,,,,{}
+1ced07f1-963b-4972-b6d0-ebe785c8ba01,8b66de75-cfd7-4116-8e61-86cc5beae4f6,Big Guns,tomb-raider-collectible-card-game_big-guns,[],,,,,,{}
+a119e457-7099-45fa-a12b-25e75cb0469c,8b66de75-cfd7-4116-8e61-86cc5beae4f6,Other,tomb-raider-collectible-card-game_other,[],,,,,,{}
+7a73b2ae-a46b-43a8-a97b-e89246d63bf9,8b66de75-cfd7-4116-8e61-86cc5beae4f6,Slippery When Wet,tomb-raider-collectible-card-game_slippery-when-wet,[],,,,,,{}
 9e5de96d-2b0d-475b-9c15-20e4950ceedc,e749d30a-1d4c-47d1-95a6-f05bde80467f,Topps Attax 2010,topps-attax_topps-attax-2010,"[""Topps""]",1,,,,,{}
 8b28d3a8-1b92-4491-bd8a-3ca4772ebc23,e749d30a-1d4c-47d1-95a6-f05bde80467f,Topps Attax 2011,topps-attax_topps-attax-2011,"[""Topps""]",1,,,,,{}
+b2f16563-2e93-494b-9eaf-14dd8471e10a,2d4ad6f9-e80f-444d-baf9-858267b549ff,Limited Edition,towers-in-time_limited-edition,[],,,,,,{}
 91dbdb36-52ae-4ab0-a24b-5ff21f4f21d2,431688b2-9751-4d84-8a04-98318044ba92,Blood & Alchemy,vampire--the-masquerade-rivals_blood-&-alchemy,"[""Renegade Game Studios""]",1,2021,,,,{}
+0de5b303-55bf-48ca-a844-b5498c4bfbfa,431688b2-9751-4d84-8a04-98318044ba92,Core Set,vampire--the-masquerade-rivals_core-set,"[""Renegade Game Studios""]",1,,,,,{}
 c1c9f725-2c9b-4926-b2e2-7e9be48ccd95,431688b2-9751-4d84-8a04-98318044ba92,Fang & Talon,vampire--the-masquerade-rivals_fang-&-talon,"[""Renegade Game Studios""]",1,2024,,,,{}
 89784b28-563c-4f03-aa82-56646d2ce0bf,431688b2-9751-4d84-8a04-98318044ba92,Justice & Mercy,vampire--the-masquerade-rivals_justice-&-mercy,"[""Renegade Game Studios""]",1,2023,,,,{}
 2a5a0997-d297-4a4e-be5e-e8c7146e510f,431688b2-9751-4d84-8a04-98318044ba92,Martial Law,vampire--the-masquerade-rivals_martial-law,"[""Renegade Game Studios""]",1,2024,,,,{}
@@ -548,6 +672,35 @@ c1c9f725-2c9b-4926-b2e2-7e9be48ccd95,431688b2-9751-4d84-8a04-98318044ba92,Fang &
 0e52de95-a452-499f-9607-fca0435ee50e,431688b2-9751-4d84-8a04-98318044ba92,The Heart of Europe,vampire--the-masquerade-rivals_the-heart-of-europe,"[""Renegade Game Studios""]",1,2022,,,,{}
 437d5d27-0cb1-4dd8-ad1c-a3efe18daec1,431688b2-9751-4d84-8a04-98318044ba92,The Hunters & The Hunted,vampire--the-masquerade-rivals_the-hunters-&-the-hunted,"[""Renegade Game Studios""]",1,2023,,,,{}
 baa2de8f-6158-40c9-bf65-e5f70502acc3,431688b2-9751-4d84-8a04-98318044ba92,The Wolf & The Rat,vampire--the-masquerade-rivals_the-wolf-&-the-rat,"[""Renegade Game Studios""]",1,2021,,,,{}
+27b34a69-c510-45f1-9b8d-523db37ba671,017cb0cd-aeb7-4c0b-941d-4f48d13f8145,Beta,wars-trading-card-game_beta,[],,,,,,{}
+77ff2cee-c2be-4c71-9275-58f9b7c8442f,017cb0cd-aeb7-4c0b-941d-4f48d13f8145,Incursion,wars-trading-card-game_incursion,[],,,,,,{}
+5abe5d8d-3829-48de-aee1-4d70a8d2ad25,017cb0cd-aeb7-4c0b-941d-4f48d13f8145,Nowhere to Hide,wars-trading-card-game_nowhere-to-hide,[],,,,,,{}
+8104bee3-3d37-42bc-9c58-e77012bd8b5c,017cb0cd-aeb7-4c0b-941d-4f48d13f8145,Other,wars-trading-card-game_other,[],,,,,,{}
+ebddfb93-c67f-44f6-b529-19960ebce510,9671ebe9-370f-408e-b47f-8155d1f1d6fb,World of Warriors,world-of-warriors-trading-card-game_world-of-warriors,[],,,,,,{}
+fccd0517-0319-4204-8909-2f191e262752,c1604dc7-58da-4a90-b009-17c6e44017c2,Absolutely Raw & Ultimate Smackdown,wwe-raw-deal_absolutely-raw-&-ultimate-smackdown,[],,,,,,{}
+85d0a749-64cc-40c8-a9cd-f6169a943564,c1604dc7-58da-4a90-b009-17c6e44017c2,Armaggedon,wwe-raw-deal_armaggedon,[],,,,,,{}
+5219ec4d-cc59-4f77-8212-c2d5a59d9d8c,c1604dc7-58da-4a90-b009-17c6e44017c2,Backlash,wwe-raw-deal_backlash,[],,,,,,{}
+eae9285b-6aed-4a78-bf56-d51a62a96c42,c1604dc7-58da-4a90-b009-17c6e44017c2,Divas Overload,wwe-raw-deal_divas-overload,[],,,,,,{}
+dd94bdbf-b07b-4f69-b58f-b187d2d8aa73,c1604dc7-58da-4a90-b009-17c6e44017c2,Fully Loaded,wwe-raw-deal_fully-loaded,[],,,,,,{}
+dd7f2015-a37e-47a6-ab0b-89c1ccb2c231,c1604dc7-58da-4a90-b009-17c6e44017c2,Great American Bash,wwe-raw-deal_great-american-bash,[],,,,,,{}
+9c564303-30e0-4db0-b327-8ab95144c0d3,c1604dc7-58da-4a90-b009-17c6e44017c2,Insurrextion,wwe-raw-deal_insurrextion,[],,,,,,{}
+447c0ee6-6a5a-48f9-9e98-0cc42e5a7d9c,c1604dc7-58da-4a90-b009-17c6e44017c2,It's All About the Game,wwe-raw-deal_it-s-all-about-the-game,[],,,,,,{}
+d8906003-55b9-40b5-9b88-8ab9dcfe4537,c1604dc7-58da-4a90-b009-17c6e44017c2,Lethal Library,wwe-raw-deal_lethal-library,[],,,,,,{}
+a2698297-b622-4297-bbb0-962f5fd26d4c,c1604dc7-58da-4a90-b009-17c6e44017c2,Mania,wwe-raw-deal_mania,[],,,,,,{}
+458b7d4a-7f62-4ec1-b59c-0be2ce9443ce,c1604dc7-58da-4a90-b009-17c6e44017c2,No Way Out,wwe-raw-deal_no-way-out,[],,,,,,{}
+c871304a-284e-459e-8291-64f91176c510,c1604dc7-58da-4a90-b009-17c6e44017c2,Premiere,wwe-raw-deal_premiere,[],,,,,,{}
+48c75985-f04e-404d-b49a-e4900d4af14b,c1604dc7-58da-4a90-b009-17c6e44017c2,Prize Cards,wwe-raw-deal_prize-cards,[],,,,,,{}
+03b63b6d-c091-4a8e-9b8c-a957daee0951,c1604dc7-58da-4a90-b009-17c6e44017c2,Promo,wwe-raw-deal_promo,[],,,,,,{}
+5af52f78-79f6-4fd2-9b5e-5c3e919204ad,c1604dc7-58da-4a90-b009-17c6e44017c2,Royal Rumble,wwe-raw-deal_royal-rumble,[],,,,,,{}
+1ec45f66-e264-4f0e-a4d1-4661ace89ee9,c1604dc7-58da-4a90-b009-17c6e44017c2,Ruthless Aggression,wwe-raw-deal_ruthless-aggression,[],,,,,,{}
+09b04d5c-4964-456d-93e6-c5cf44a2286a,c1604dc7-58da-4a90-b009-17c6e44017c2,Summer Slam,wwe-raw-deal_summer-slam,[],,,,,,{}
+b583c0cf-1eac-447c-b043-b9a8a113f1b3,c1604dc7-58da-4a90-b009-17c6e44017c2,Survivor Series,wwe-raw-deal_survivor-series,[],,,,,,{}
+43d429b7-aa08-4a49-9f6d-0c3c3b22dc84,c1604dc7-58da-4a90-b009-17c6e44017c2,Survivor Series 2,wwe-raw-deal_survivor-series-2,[],,,,,,{}
+fd016349-3414-477e-b744-911a1eaa2d65,c1604dc7-58da-4a90-b009-17c6e44017c2,Survivor Series 3,wwe-raw-deal_survivor-series-3,[],,,,,,{}
+9b7c1434-5a42-44c3-a18e-af779f8b0d5d,c1604dc7-58da-4a90-b009-17c6e44017c2,Unforgiven,wwe-raw-deal_unforgiven,[],,,,,,{}
+6d7256c3-2f8e-4b33-a417-85369309abd9,c1604dc7-58da-4a90-b009-17c6e44017c2,Velocity,wwe-raw-deal_velocity,[],,,,,,{}
+70470fd7-fd2c-45a3-9435-18c28d224690,c1604dc7-58da-4a90-b009-17c6e44017c2,Vengeance,wwe-raw-deal_vengeance,[],,,,,,{}
+dab573ce-cc84-4d0e-ade8-d81f7b3841ff,c1604dc7-58da-4a90-b009-17c6e44017c2,Wrestlemania and SummerSlam Deck Tins,wwe-raw-deal_wrestlemania-and-summerslam-deck-tins,[],,,,,,{}
 6ac625a8-ce88-4c18-8e2b-93f5a7a1915b,593ea211-b214-41fe-bcbb-2fd86eb1216e,1st Edition,xena--warrior-princess_1st-edition,[],,,,,,{}
 b81d54ba-0974-4dea-b3a0-8e909957de31,593ea211-b214-41fe-bcbb-2fd86eb1216e,Battle Cry,xena--warrior-princess_battle-cry,[],,,,,,{}
 5510190f-535a-45cf-89a5-e910b2a7d475,4bf03ca8-b30f-4c5c-802f-265af7fd3299,XXXenophile,xxxenophile_xxxenophile,[],,,,,,{}
