@@ -1,7 +1,200 @@
-id,name,artist_name_slug,printed_aliases,tags,links,source_notes
-c44421c4-3949-4a87-a4c4-221b59912753,Edward Beard Jr.,edward-beard-jr-,[],[],"{""Official Website"": ""https://www.edbeardjr.com/"", ""Other"": ""[\u0022https://whitewolf.fandom.com/wiki/Edward_Beard,_Jr.\u0022]""}",{}
-6db48a0e-3ed8-4ef9-9907-5c6c82c8bcf3,Steve Casper,steve-casper,[],[],{},{}
-8a2d9ca1-7019-4384-a1a1-0cd89e71051f,Joshua Gabriel Timbrook,joshua-gabriel-timbrook,[],[],{},{}
-83b2d5f7-775d-4388-a04c-cb0df3253db1,Barb Armata,barb-armata,[],[],{},{}
-e0c50087-977b-4419-8924-1a4ec94d8299,William O'Connor,william-o-connor,[],[],{},{}
-4e22de8f-bc49-45d8-8395-ec4dd8314841,Gong Studios,gong-studios,[],[],{},{}
+id,name,first_name,last_name,artist_name_slug,printed_aliases,tags,links,source_notes
+12b9e07b-d816-4429-a9f6-129a64bb0aef,Adam Rex,Adam,Rex,adam-rex,[],[],{},{}
+1b15a5ae-df63-4555-b59c-03b91441ba83,Adrian Smith,Adrian,Smith,adrian-smith,"[""Adrian Smith""]",[],{},{}
+5ea5f64a-5707-4510-a40f-5a1b6b46fb11,Aileen E Miles,Aileen,Miles,aileen-e-miles,[],[],"{""Other"": ""[\u0022https://whitewolf.fandom.com/wiki/Aileen_E._Miles\u0022]""}",{}
+afb79c3d-7fcc-4af5-a2ba-82e304c1eeb5,Alan Clark,Alan,Clark,alan-clark,[],[],{},{}
+b4c92128-49eb-4c17-ae2c-7b2e4e823015,Alan Pollack,Alan,Pollack,alan-pollack,[],[],{},{}
+cbfefcb2-f472-4501-970e-d14cb03c216f,Alex Sheikman,Alex,Sheikman,alex-sheikman,[],[],{},{}
+37b14ad8-4b8a-4677-b69d-74570454d27f,Alexander Gregory,Alexander,Gregory,alexander-gregory,[],[],{},{}
+061099f5-3bb2-4495-bf25-6fbccce3ae7f,Andrew Bates,Andrew,Bates,andrew-bates,[],[],"{""Other"": ""[\u0022https://whitewolf.fandom.com/wiki/Category:Art_by_Andrew_Bates\u0022]""}",{}
+80fd6a3f-697d-4117-8833-72528be66767,Andrew Kudelka,Andrew,Kudelka,andrew-kudelka,[],[],"{""Other"": ""[\u0022https://whitewolf.fandom.com/wiki/Andrew_Kudelka\u0022]""}",{}
+b20aed4e-bc9b-4082-9bcc-62c961f1d137,Andy Belzark Tantowi,Andy,Tantowi,andy-belzark-tantowi,[],[],{},{}
+91ac852d-cdf5-4f62-b977-61ed47e4cc68,Anh Tung,Anh,Tung,anh-tung,[],[],{},{}
+e0754528-77f2-43ac-95f8-b9af50f09d84,Anson Maddocks,Anson,Maddocks,anson-maddocks,[],[],{},{}
+cdd36458-b4ee-467a-b279-ad3219250bd0,AOCOM Inc.,,,aocom-inc-,[],[],{},{}
+9ff99ca9-8712-4c82-9ed6-fa8ec28bf0c8,Artist Unknown,,,artist-unknown,[],[],{},{}
+a05d8baf-cf55-40fd-a3cc-1ba3da1edec6,Artmic,,,artmic,[],[],{},{}
+efce6ba7-2b28-4df5-9131-2260ef6e057b,Ascary Lazos,Ascary,Lazos,ascary-lazos,[],[],{},{}
+848322a3-e854-4cdd-8e75-760c23bcff31,Ash Arnett,Ash,Arnett,ash-arnett,[],[],{},{}
+9d2e6cae-5c3a-4ef0-9a85-056c6b3b8cb9,Atanas Lozanski,Atanas,Lozanski,atanas-lozanski,[],[],{},{}
+fa1e291e-0cc2-486d-b74c-47e68f12cf9b,Ba Vo,Ba,Vo,ba-vo,[],[],{},{}
+83b2d5f7-775d-4388-a04c-cb0df3253db1,Barbara Armata,Barbara,Arma,barbara-armata,"[""Barb Armata""]",[],{},{}
+39630716-77d8-460b-9576-e56ef36890d5,Ben Templesmith,Ben,Templesmith,ben-templesmith,[],[],{},{}
+305546fd-bfaf-4599-916e-d83f2cca53d0,Blue Turrell,Blue,Turrell,blue-turrell,[],[],{},{}
+0063ea03-02d4-4513-b489-45a17fca412f,Brad Teare,Brad,Teare,brad-teare,[],[],{},{}
+65723b28-2efe-4fab-8367-36129ea74b15,Brad Williams,Brad,Williams,brad-williams,[],[],{},{}
+71c92b99-22d7-4b80-bcfe-669148b3241a,Brian Dugan,Brian,Dugan,brian-dugan,[],[],{},{}
+0e7917fe-7b04-4d8a-8873-b61d30c7244b,Brian Horton,Brian,Horton,brian-horton,[],[],{},{}
+ea3ecd47-5b64-4d57-9d5a-356d680c2fd5,Brian LeBlanc,Brian,LeBlanc,brian-leblanc,[],[],"{""Official Website"": ""https://brianleblancart.wordpress.com/""}",{}
+28b75f92-feb7-49c7-9805-33f181e3ce77,C. Brent Ferguson,C. Brent,Ferguson,c--brent-ferguson,[],[],{},{}
+cdff6ca8-99c5-455a-b6a6-b424e46cb014,Cheryl Mandus,Cheryl,Mandus,cheryl-mandus,[],[],{},{}
+be738bef-39da-4663-867f-a6f75f905f27,Chris McDonough,Chris,McDonough,chris-mcdonough,[],[],{},{}
+b466ebdc-24ea-4303-952a-0c77803a9af5,Chris Moeller,Chris,Moeller,chris-moeller,[],[],{},{}
+01cbfd66-f147-4f95-a8cd-0d0ba0337bab,Christina Wald,Christina,Wald,christina-wald,[],[],{},{}
+b120523a-5f93-4f9c-93a1-2ca1f3279a9f,Christopher Shy,Christopher,Shy,christopher-shy,[],[],{},{}
+4330c6a8-163e-4637-9122-76c62cb61daa,Chunli Thien Nguyen,Chunli,Nguyen,chunli-thien-nguyen,[],[],{},{}
+3c9d4ada-0487-4404-96db-fddac42c5ce7,Clint Langley,Clint,Langley,clint-langley,[],[],{},{}
+74b1580c-63b5-4a40-8ea6-7c81091021c1,Colin Murcray,Colin,Murcray,colin-murcray,[],[],{},{}
+285ab479-14c6-42f3-a2c5-653449075b37,D. Alexander Gregory,D. Alexander,Gregory,d--alexander-gregory,[],[],"{""Official Website"": ""https://dalexandergregory.com/""}",{}
+460dfa3f-7c29-474c-b235-30d70191b77c,Daarken,,,daarken,[],[],{},{}
+4842eabb-6b93-4096-a393-13d8a49d4db9,Damon Denys,Damon,Denys,damon-denys,[],[],{},{}
+75da7fd4-a947-4b8c-82e1-cf7dca6f1b92,Dan Seagrave,Dan,Seagrave,dan-seagrave,[],[],{},{}
+e231c8d9-accf-4e33-a72d-60baa656b3a1,Darryl Elliott,Darryl,Elliott,darryl-elliott,[],[],"{""Other"": ""[\u0022https://whitewolf.fandom.com/wiki/Darryl_Elliott\u0022]""}",{}
+e376eb9e-40f9-4b12-9dad-ab50b256794a,Dave Flora,Dave,Flora,dave-flora,[],[],{},{}
+7af69d0c-3e1b-4d2c-9d7d-05436ba04893,David Bollt,David,Bollt,david-bollt,[],[],{},{}
+ceae061f-bf59-41f3-a8e0-3d0033038fbf,David Hudnut,David,Hudnut,david-hudnut,[],[],"{""Official Website"": ""https://www.hudnutart.com/"", ""Wikipedia"": ""https://en.wikipedia.org/wiki/David_Hudnut""}",{}
+885cac04-25dc-47f9-bb1a-e4d0fece8b21,Dennis Calero,Dennis,Calero,dennis-calero,[],[],{},{}
+4ca3a108-4265-4d63-b493-b466ad1b3478,Derrick Gross,Derrick,Gross,derrick-gross,[],[],{},{}
+e8537066-b012-4fb9-b64c-c9d3e98792e1,Doug Gray,Doug,Gray,doug-gray,[],[],{},{}
+89f706e1-7a28-466f-9aea-052b0367c608,Douglas Shuler,Douglas,Shuler,douglas-shuler,[],[],"{""Official Website"": ""https://douglasshuler.com/"", ""Instagram"": ""https://www.instagram.com/douglasshuler_illustrations"", ""Other"": ""[\u0022https://mtg.fandom.com/wiki/Douglas_Shuler\u0022, \u0022https://www.facebook.com/DouglasShulerIllustrations/\u0022]""}",{}
+8358a7b1-0a5e-422e-9239-1c2c06bd1b33,Drew Tucker,Drew,Tucker,drew-tucker,[],[],{},{}
+943dc847-bc38-4f06-9b72-b02f93be2653,E. Allen Smith,E. Allen,Smith,e--allen-smith,[],[],{},{}
+c44421c4-3949-4a87-a4c4-221b59912753,Edward Beard Jr.,Edward,Beard,edward-beard-jr-,"[""Edward Beard Jr.""]",[],"{""Official Website"": ""https://www.edbeardjr.com/"", ""Other"": ""[\u0022https://whitewolf.fandom.com/wiki/Edward_Beard,_Jr.\u0022]""}",{}
+5cb8116c-24d8-422f-b367-f7cb1a947435,Edward Cheekokseang,Edward,Cheekokseang,edward-cheekokseang,[],[],{},{}
+07067175-87b1-4fcf-9cb1-4eb5c0d55c36,Eric Kollin,Eric,Kollin,eric-kollin,[],[],{},{}
+781bafca-337a-4794-ae0a-61f81a56aee7,Eric Thevenat,Eric,Thevenat,eric-thevenat,[],[],{},{}
+16cfceeb-70e0-4791-84ed-b2ab47067c1d,Erin Dixon,Erin,Dixon,erin-dixon,[],[],{},{}
+6714b4e6-25c7-4b9c-9c5d-f48dbd371717,Frontal Lobe Productions,,,frontal-lobe-productions,[],[],{},{}
+4e22de8f-bc49-45d8-8395-ec4dd8314841,Gong Studios,,,gong-studios,"[""Gong Studios""]",[],{},{}
+7b315241-e0c9-483d-b51f-e043b0086672,Greg Houston,Greg,Houston,greg-houston,[],[],{},{}
+b4133762-4e54-4cf5-becc-29c96b12850a,Gregg Glymph,Gregg,Glymph,gregg-glymph,[],[],{},{}
+7ecb2eeb-b306-403a-aa80-e1d1f0008a9a,Grey Thornberry,Grey,Thornberry,grey-thornberry,[],[],{},{}
+6ac17732-9db9-4cff-a3a5-19eb759e7e18,Hank Carlson,Hank,Carlson,hank-carlson,[],[],{},{}
+93a40378-3cd2-41dc-9da9-06141435e0a9,Harvey Parker,Harvey,Parker,harvey-parker,[],[],{},{}
+f10a1237-09d2-4438-817d-c389308ad4e7,HuoMiao Studio,,,huomiao-studio,[],[],{},{}
+4462b6e1-2cd2-4c26-87e9-f8677c235afc,Igor-Alban Chevalier,Igor-Alban,Chevalier,igor-alban-chevalier,[],[],{},{}
+704f1222-22f2-49c7-a30f-f21b05779880,J. J. Tissot,J. J.,Tissot,j--j--tissot,[],[],{},{}
+9d515bdf-a20c-4c3b-8c67-0ad6e6df9ac1,James Daly,James,Daly,james-daly,[],[],{},{}
+040d0b56-a46d-41ee-ab7c-6af62dc4da80,Jamie Sims,Jamie,Sims,jamie-sims,"[""Jamie Sims""]",[],{},{}
+9c6d610b-5633-43c8-8a78-c185c5840148,Jamie Tokelsum,Jamie,Tokelsum,jamie-tokelsum,[],[],{},{}
+c99542d9-6186-4ebc-ae31-ef489bb80f7b,Jamie Tolagson,Jamie,Tolagson,jamie-tolagson,[],[],{},{}
+0387d4b8-0454-4b8a-ba10-a791d7461676,Jan Steen,Jan,Steen,jan-steen,[],[],{},{}
+40748f00-6d7e-4062-8fe7-5aefdbb4beb4,Janet Aulisio Dannheiser,Janet,Dannheiser,janet-aulisio-dannheiser,[],[],{},{}
+0688e89f-b270-4c38-a6e2-8b698f4d2711,Jason Felix,Jason,Felix,jason-felix,[],[],{},{}
+73e7019f-97c5-4924-b4d3-a5db136a503c,Jeff Holt,Jeff,Holt,jeff-holt,[],[],{},{}
+9c1fef71-e4b2-4af2-8db3-0a19eabaa274,Jeff Menges,Jeff,Menges,jeff-menges,[],[],{},{}
+383d501a-bb13-491f-ac04-6037ee596761,Jeff Miracola,Jeff,Miracola,jeff-miracola,[],[],"{""Official Website"": ""https://www.jeffmiracola.com/"", ""Wikipedia"": ""https://en.wikipedia.org/wiki/Jeff_Miracola""}",{}
+c2c1640f-41d9-47ed-9910-b4dda5d3fa2d,Jeff Rebner,Jeff,Rebner,jeff-rebner,[],[],{},{}
+d07dd9e5-e87c-4b10-b947-339d366f1544,Jens Jonsson,Jens,Jonsson,jens-jonsson,"[""Jens Jonsson""]",[],{},{}
+8aaab160-ca00-434b-a635-67b84d7d787c,Jesper Myfors,Jesper,Myfors,jesper-myfors,[],[],{},{}
+60f00eb1-56ab-474c-905c-f0b64ceb1a78,Jim Daly,Jim,Daly,jim-daly,[],[],{},{}
+15ed60b3-510a-4c3f-96be-6dd868bfcbf0,Joannah Soderborg,Joannah,Soderborg,joannah-soderborg,[],[],{},{}
+9f253e55-bafd-4d4e-8484-c1bf2dcbc0e4,Joe Boulden,Joe,Boulden,joe-boulden,[],[],{},{}
+4b02c04c-f0a5-4507-9fd6-4b60264945bd,Joe Carpenter,Joe,Carpenter,joe-carpenter,[],[],{},{}
+65171728-b29c-4d69-a55b-4cda278b0697,Joel M. Poppleton,Joel,Poppleton,joel-m--poppleton,[],[],{},{}
+f5409174-921b-4b1a-bffb-ae1db4a92dbd,John Bridges,John,Bridges,john-bridges,[],[],{},{}
+97784ad7-14cf-4a0b-b40d-0199883e144d,John Cobb,John,Cobb,john-cobb,[],[],"{""Other"": ""[\u0022https://whitewolf.fandom.com/wiki/John_Cobb\u0022]""}",{}
+f3535500-14ab-444d-9d8b-8e2b54a34581,John K Snyder,John,Snyder,john-k-snyder,[],[],"{""Official Website"": ""https://www.johnksnyder.com/"", ""Wikipedia"": ""https://en.wikipedia.org/wiki/John_K._Snyder_III""}",{}
+7ba6f83d-363d-4e4e-8861-6edf378f2217,John Matson,John,Matson,john-matson,[],[],{},{}
+5bdee60e-a23c-44fc-b66f-4faea2ea36a7,John Moriarty,John,Moriarty,john-moriarty,[],[],{},{}
+3b6c42a7-4137-4bb3-b262-ae3a1d7737a7,John Nephew,John,Nephew,john-nephew,[],[],{},{}
+b9b83afd-8127-4839-953f-a5057e858365,John Park,John,Park,john-park,[],[],{},{}
+7c68fc1c-3727-4b2a-ba37-982fcaeccad6,John Van Fleet,John,Van Fleet,john-van-fleet,[],[],{},{}
+776652a4-9393-4c0f-bbc4-a3fc7983106f,Jon Hull,Jon,Hull,jon-hull,[],[],{},{}
+ba97e99d-a0af-4cd3-8be7-c8c3376a3cca,Jos Weymer,Jos,Weymer,jos-weymer,[],[],{},{}
+8a2d9ca1-7019-4384-a1a1-0cd89e71051f,Joshua Gabriel Timbrook,Joshua,Timbrook,joshua-gabriel-timbrook,"[""Joshua Gabriel Timbrook""]",[],{},{}
+e322a002-05ca-4acf-8ae7-d23aa9eb4245,Justine Cruz,Justine,Cruz,justine-cruz,[],[],{},{}
+31471638-d252-434e-9b8d-b1e4569bc24b,K.C. Lancaster,K.C.,Lancaster,k-c--lancaster,[],[],{},{}
+a33b3ed7-7662-4ba0-a6c1-4a8ce910e610,Kari Christensen,Kari,Christensen,kari-christensen,[],[],{},{}
+0e8c5194-34e1-417c-983c-bac57a87577a,Kathleen Ryan,Kathleen,Ryan,kathleen-ryan,[],[],{},{}
+0ad0bd26-65a8-4949-9d1b-a8354492ad75,Katie McCaskill,Katie,McCaskill,katie-mccaskill,[],[],{},{}
+fba56f21-cda6-45c8-852d-7eeac808ab2d,Kelley Bell,Kelley,Bell,kelley-bell,[],[],{},{}
+49029d92-7ffa-4d23-a048-30317aeb1c6d,Ken Meyer Jr.,Ken,Meyer,ken-meyer-jr-,[],[],{},{}
+d70a9eaf-12bd-4207-aa29-bb73a6da4fba,Kevin Murphy,Kevin,Murphy,kevin-murphy,[],[],{},{}
+69dc95bb-f081-4797-9335-af3fe6d6f419,Kevin Stone,Kevin,Stone,kevin-stone,[],[],{},{}
+56ae38ec-113f-4d62-b5fc-cc49a39e72f7,Khoa Viet,Khoa,Viet,khoa-viet,[],[],{},{}
+0a41afe0-3313-41ad-b9b7-84ae20dcc2ca,L.A. Williams,L.A.,Williams,l-a--williams,[],[],{},{}
+a6878b8a-b08a-42ab-94b3-2fe2805c8e68,Larry MacDougall,Larry,MacDougall,larry-macdougall,[],[],"{""Official Website"": ""https://larrymacdougallart.bigcartel.com/""}",{}
+affa7781-f0e2-4cfc-9f27-da741eefef0d,Laura Cabral,Laura,Cabral,laura-cabral,[],[],{},{}
+2f17109f-308c-4cfb-b3be-216787de178c,LAW,,,law,[],[],{},{}
+91c984bb-46a7-4977-a9ce-3b43fbeeeebc,Lawrence Allen Williams,Lawrence,Williams,lawrence-allen-williams,[],[],"{""Other"": ""[\u0022https://whitewolf.fandom.com/wiki/Lawrence_Allen_Williams\u0022]""}",{}
+0aa2aebe-403f-4e82-a311-a32a21aee761,Lawrence Snelly,Lawrence,Snelly,lawrence-snelly,[],[],{},{}
+4e20e6a2-da2d-4f3f-b1e7-dba875a2334c,Lee M. Fields,Lee,Fields,lee-m--fields,[],[],{},{}
+a9b82599-50a1-40b8-b4b9-caaae5d2a35c,Lee Moyer,Lee,Moyer,lee-moyer,[],[],{},{}
+1e8e196f-5c90-4a69-8aac-71f8f8380bd6,Les Edwards,Les,Edwards,les-edwards,[],[],{},{}
+ed91f612-b34f-464f-89e0-41701d2e1115,Leonardo Santanna,Leonardo,Santanna,leonardo-santanna,[],[],{},{}
+7c746e7c-4b80-479c-a8a7-60d738d2119c,Linda Yarro,Linda,Yarro,linda-yarro,[],[],{},{}
+b9d59082-c4c9-4938-9b4b-f1c2cd518361,Liz Daggar,Liz,Daggar,liz-daggar,[],[],{},{}
+5bdd28c5-0f29-4222-9a4c-9d09f0620b47,Lynae Hyde,Lynae,Hyde,lynae-hyde,[],[],{},{}
+45186ba6-4fbf-4c4c-a432-3efea8344c70,Lynne Hyde,Lynne,Hyde,lynne-hyde,[],[],{},{}
+13b1e982-8be4-4e53-9efc-5ca772d381af,Marcos Olivarria,Marcos,Olivarria,marcos-olivarria,[],[],{},{}
+23ef92f8-632f-49ca-b4a8-066a8a5d3712,Marie Swenson,Marie,Swenson,marie-swenson,[],[],{},{}
+7c5f6a1a-2fed-4e26-951a-439608fc84d2,Mark Chiarello,Mark,Chiarello,mark-chiarello,[],[],{},{}
+355bfefb-69d6-478f-bc1f-3ae4292eaa9d,Mark Jackson,Mark,Jackson,mark-jackson,[],[],{},{}
+afb10e62-ec2d-44ce-8bf4-71184e3cb5f1,Mark Poole,Mark,Poole,mark-poole,[],[],{},{}
+dde55d03-bfdc-4334-973e-c9aa6b0a8443,Matt Haley,Matt,Haley,matt-haley,[],[],{},{}
+a91f86f2-808b-414b-8488-a4319fb4ea12,Matt Milberger,Matt,Milberger,matt-milberger,[],[],{},{}
+2433a66c-5f3f-4872-aad9-d0b2f05992c7,Matteo Spirito,Matteo,Spirito,matteo-spirito,[],[],{},{}
+1f63a4f0-2395-4009-a9de-02447001acdf,Matthew Yarro,Matthew,Yarro,matthew-yarro,[],[],{},{}
+3fdacdba-63b8-4b4e-a7d9-b483e4b55b8b,Michael Carroll,Michael,Carroll,michael-carroll,[],[],{},{}
+27d68eff-d2d0-43c5-9aa8-364f4eb4c268,Michael Kirkbride,Michael,Kirkbride,michael-kirkbride,[],[],{},{}
+9252d703-6733-483b-883d-cd647d8634b0,Michael Scott Cohen,Michael,Cohen,michael-scott-cohen,[],[],{},{}
+eb13489d-b53d-4343-9b84-8c0fa06bafde,Michelle Billich,Michelle,Billich,michelle-billich,[],[],{},{}
+22527046-6d46-4ddf-ac93-dcb277915deb,Michelle Prahler,Michelle,Prahler,michelle-prahler,[],[],{},{}
+8c1dd5b7-27e0-474e-b121-48d312e8e1b5,Mike Carter,Mike,Carter,mike-carter,[],[],{},{}
+d239787e-188d-4001-940b-d8ebf2db093a,Mike Chaney,Mike,Chaney,mike-chaney,[],[],{},{}
+019e999a-23a8-4ffe-9de9-c34875601118,Mike Danza,Mike,Danza,mike-danza,[],[],{},{}
+87619be8-d440-457e-b36b-48e759947320,Mike Dringenburg,Mike,Dringenburg,mike-dringenburg,[],[],{},{}
+fbb47e2f-5e17-4a52-abf3-064e8d1c83c3,Mike Mignola,Mike,Mignola,mike-mignola,[],[],{},{}
+66103175-392d-4f12-9a7b-5ab669541a00,Néne Thomas,Néne,Thomas,néne-thomas,[],[],{},{}
+93d384bb-f7e7-468f-9534-6b0f73db88e8,Nestor Papatriantafyllou,Nestor,Papatriantafyllou,nestor-papatriantafyllou,[],[],{},{}
+940a9b42-8ae3-4c0b-8492-9f0b4b045b48,Nils Gulliksson,Nils,Gulliksson,nils-gulliksson,"[""Nils Gulliksson""]",[],{},{}
+6434c610-4cfe-46de-ba12-a6d5e77be31b,Omaha Perez,Omaha,Perez,omaha-perez,[],[],{},{}
+0ff985cb-d64f-4632-a5a9-bc7c823dd481,Ovi Hondru,Ovi,Hondru,ovi-hondru,[],[],{},{}
+d6865782-a435-4164-84cf-4715fc40f42f,Paolo Parente,Paolo,Parente,paolo-parente,"[""Paolo Parente""]",[],{},{}
+a17afd38-af82-48ab-af60-84a7cb57279e,Paris Ioannou,Paris,Ioannou,paris-ioannou,[],[],{},{}
+9bace64e-5a72-4b3a-9346-d8294a0dc27a,Paul Lee,Paul,Lee,paul-lee,[],[],{},{}
+fc44b103-cba3-4fec-a453-c355cacb4a1d,Peter Andrew Jones,Peter,Jones,peter-andrew-jones,"[""Peter Andrew Jones""]",[],{},{}
+ebea86ab-8572-41e8-beac-ba8eb46acd28,Phrixel,,,phrixel,[],[],{},{}
+cd693012-fb81-42a0-8413-5afaf43b662b,Quinton Hoover,Quinton,Hoover,quinton-hoover,[],[],"{""Wikipedia"": ""https://en.wikipedia.org/wiki/Quinton_Hoover""}",{}
+665987a1-1fb6-4c40-a2c1-554c95ba95a1,Ralph Yarro,Ralph,Yarro,ralph-yarro,[],[],{},{}
+981bac5a-5d38-409a-b6f4-d02c6df0064b,Randy Gallegos,Randy,Gallegos,randy-gallegos,[],[],{},{}
+e105562c-2a17-4a52-b999-e2330c25a28d,Rebecca Guay,Rebecca,Guay,rebecca-guay,[],[],{},{}
+1aa54565-790f-41bb-a886-06047a4f58cb,Rémi Jacquot,Rémi,Jacquot,rémi-jacquot,[],[],{},{}
+1a9e3a4d-24e9-4c51-a288-4fcda390ee45,Renato Olivares Macias,Renato,Macias,renato-olivares-macias,"[""Renato Olivares Macias""]",[],{},{}
+e1ecea5c-b4f5-4276-8f7f-c9901ee53fc0,Richard Case,Richard,Case,richard-case,[],[],{},{}
+8ff0070f-2fd3-4dab-becb-c06939e043c5,Richard Kane Ferguson,Richard,Ferguson,richard-kane-ferguson,[],[],{},{}
+c01c2912-766a-4788-8e4a-879af2ddb590,Richard Thomas,Richard,Thomas,richard-thomas,[],[],{},{}
+153c64cb-2049-4085-9374-a26fd3272712,Robert Dixon,Robert,Dixon,robert-dixon,[],[],{},{}
+bb11fc9d-df18-44d9-9991-30ab02b8997e,Robert McNeill,Robert,McNeill,robert-mcneill,[],[],"{""Other"": ""[\u0022https://whitewolf.fandom.com/wiki/Robert_McNeill\u0022]""}",{}
+ff46a83f-56d3-4e62-9efe-2c9968d3139b,Roger Raupp,Roger,Raupp,roger-raupp,[],[],{},{}
+402473ab-f1e5-44d5-9c20-683445f7c494,Roger Smith,Roger,Smith,roger-smith,[],[],{},{}
+025fe49a-0724-4059-8566-feea306ba3ae,Romain Kurdi,Romain,Kurdi,romain-kurdi,[],[],{},{}
+5144a6ce-6f19-41f2-9c3a-4e4cd6088b37,Ron Rousselle II,Ron,Rousselle,ron-rousselle-ii,[],[],{},{}
+0829c61b-fe9c-46d2-8735-58a88a24a54a,Ron Spencer,Ron,Spencer,ron-spencer,[],[],{},{}
+90e3a85e-327d-4383-8ecc-66a09181b403,Ron States,Ron,States,ron-states,[],[],{},{}
+2aba15b0-cc66-4ba4-9af5-200bc026a6cf,SCAR,,,scar,[],[],{},{}
+852ff85f-6056-408f-b04f-062018ad9a47,Scott Hampton,Scott,Hampton,scott-hampton,[],[],{},{}
+79b7b06c-56e3-47b7-890e-df4a279d1c46,Scott M. Fischer,Scott,Fischer,scott-m--fischer,[],[],"{""Official Website"": ""https://www.scottmfischer.com/""}",{}
+0ec1f185-8006-4a9e-ac43-116180b9aa6a,Shaggy Dixon,Shaggy,Dixon,shaggy-dixon,[],[],{},{}
+67166753-12aa-4f05-94fe-27f0372945c3,Shane Larson,Shane,Larson,shane-larson,[],[],{},{}
+a390292c-7f2a-4cd4-81af-89d2e07607f1,Shea Anton Pensa,Shea,Pensa,shea-anton-pensa,[],[],"{""Other"": ""[\u0022https://www.lambiek.net/artists/p/pensa_sa.htm\u0022, \u0022https://whitewolf.fandom.com/wiki/Shea_Anton_Pensa\u0022]""}",{}
+52868f16-01a6-41c5-b542-ca2fdd7bb943,Shelly Prahler,Shelly,Prahler,shelly-prahler,[],[],{},{}
+54c4b3fe-326f-4387-94c4-5b464df3d485,Stave Casper,Stave,Casper,stave-casper,[],[],{},{}
+26100d6c-b871-402e-bef5-29417f4aa07b,Stefan Ljungqvist,Stefan,Ljungqvist,stefan-ljungqvist,[],[],{},{}
+5fc21865-2329-457b-ab49-89ae190a3447,Stefan Thunberg,Stefan,Thunberg,stefan-thunberg,"[""Stefan Thunberg""]",[],{},{}
+6db48a0e-3ed8-4ef9-9907-5c6c82c8bcf3,Steve Casper,Steve,Casper,steve-casper,"[""Steve Casper""]",[],{},{}
+d4cbc504-622c-4bc2-a367-fc668e010b71,Steve Prescott,Steve,Prescott,steve-prescott,[],[],{},{}
+041c20d2-ebfd-4789-948d-857692ed8318,Steve Venters,Steve,Venters,steve-venters,[],[],{},{}
+8772fb68-7401-40a8-abfe-c20e4b70375e,Sto,,,sto,[],[],{},{}
+82e702df-ec86-4d60-98db-4031e596a657,Stuart Beel,Stuart,Beel,stuart-beel,[],[],"{""Other"": ""[\u0022https://whitewolf.fandom.com/wiki/Stuart_Beel\u0022, \u0022https://scryfall.com/search?q=a:%22Stuart+Beel%22\u0022, \u0022https://boardgamegeek.com/boardgameartist/14486/stuart-beel\u0022]""}",{}
+b8f1280d-9b49-4931-b373-0efe8855c9f8,Susan Van Camp,Susan,Van Camp,susan-van-camp,[],[],"{""Official Website"": ""https://susanvancamp.net/"", ""Wikipedia"": ""https://en.wikipedia.org/wiki/Susan_Van_Camp""}",{}
+6bc94624-e7bc-454a-b58a-3cda132d96c9,Takashi Tan,Takashi,Tan,takashi-tan,[],[],{},{}
+748259d2-2819-4356-9198-8df5f6063c18,Taras Susak,Taras,Susak,taras-susak,[],[],{},{}
+f932053f-047b-4577-a3ed-b07deb36b92e,Ted Naifeh,Ted,Naifeh,ted-naifeh,[],[],{},{}
+81098513-d913-44d9-a629-585617224d92,Terry Oakes,Terry,Oakes,terry-oakes,"[""Terry Oakes""]",[],{},{}
+c4f5b955-aeee-4af7-8575-c9c0312d57be,Thomas Haddad,Thomas,Haddad,thomas-haddad,[],[],{},{}
+ca9b54c1-1930-406c-9170-4e70a90eeafc,Thomas Martinez,Thomas,Martinez,thomas-martinez,[],[],{},{}
+edd95ffc-aa0f-4cc4-92ac-99f8f6ae82cb,Thong Nguyen,Thong,Nguyen,thong-nguyen,[],[],{},{}
+9f1303fe-3d4f-49db-8e4f-04d21a471df3,Tom Simmons,Tom,Simmons,tom-simmons,[],[],{},{}
+ad4feeb8-8f94-46d1-b68c-d2ab582b57ce,Tony Bagge,Tony,Bagge,tony-bagge,"[""Tony Bagge""]",[],{},{}
+fe1c212e-05a5-4dc0-8964-1de15f9f3ba5,Tony Diterlizzi,Tony,Diterlizzi,tony-diterlizzi,[],[],{},{}
+8a2d2277-4c44-4560-9683-a498ada356f2,Tony Harris,Tony,Harris,tony-harris,[],[],{},{}
+38ce71bf-1358-42f2-a7ef-ad3c32a62b3f,Tots,,,tots,[],[],{},{}
+a3f8b9dd-2319-44a8-996c-54b964d31ef9,Vinh Pham,Vinh,Pham,vinh-pham,[],[],{},{}
+4f61c313-c6d4-495d-8238-81ce79f6912c,Vu Bui,Vu,Bui,vu-bui,[],[],{},{}
+e0c50087-977b-4419-8924-1a4ec94d8299,William O'Connor,William,O'Connor,william-o-connor,"[""William O'Connor""]",[],"{""Wikipedia"": ""https://en.wikipedia.org/wiki/William_O'Connor_(artist)""}",{}
+7a784c3c-59d1-48cf-ba00-98ccbaf136eb,William Pace,William,Pace,william-pace,[],[],{},{}
+71c46484-b74f-4776-8f0f-2a36eb23c569,Wizyakuza,,Wizyakuza,wizyakuza,[],[],{},{}
+7e48b2df-4016-4d0d-9c19-ea25a587a7d8,Youmex,,,youmex,[],[],{},{}
+d0d454f0-f449-4182-be49-a30bf71d00da,Zero Wen,Zero,Wen,zero-wen,[],[],{},{}

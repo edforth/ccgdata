@@ -23,6 +23,8 @@ import_csvs = [
     #, 'import/ccgdata_gameitems_hecatomb.csv'
     #, 'import/ccgdata_gameitems_highlander.csv'
     #, 'import/ccgdata_gameitems_hyborian-gates.csv'
+    #, 
+    'import/ccgdata_gameitems_kult.csv'
     #, 'import/ccgdata_gameitems_lol-surprise.csv'
     #, 'import/ccgdata_gameitems_magi-nation-duel.csv'
     #, 'import/ccgdata_gameitems_marvel-superheroes-collectors-club.csv'
@@ -54,6 +56,13 @@ import_csvs = [
     #, 'import/ccgdata_gameitems_wwe-raw-deal.csv'
     #, 'import/ccgdata_gameitems_xena.csv'
     #, 'import/ccgdata_gameitems_xxxenophile.csv'    
+
+
+     
+    # 'import/ccgdata_gameitems_.csv'
+    # 'import/ccgdata_gameitems_.csv'
+    # 'import/ccgdata_gameitems_.csv'
+
 ]
 
 

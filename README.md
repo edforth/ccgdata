@@ -50,8 +50,13 @@ All items in the dataset shall have at least the following values
         - If the only variances for the item are already captured in other attributes, e.g. "language" or "finish", use the minimum combination of these attributes necessary to identify the variances.
         - If there is an existing disambiguator in common use among the game's community already, we should adopt it, as long as it meets the above requirements
         - Shorter values are preferred over longer values when the above requirements are met as this value will be used in the creation of other values
-- source - a string indicating the source of the data for this item.   Acceptable values are ("item", "photo", "first-party-document", "third-party-document")
-- images - a JSON list of filenames without extensions that can be used to uniquely identify images for the item.
+- source - a string indicating the source of the data for this item.   Acceptable values, in decending order of preference are as follows:
+  - item - we have confirmed the existence of this item through physical possession of the item.
+  - photo - we have confirmed the existence of this item from a photograph or scan of the item.  This image must be of the physical item. An art file, even if official, does not qualify.
+  - first-party-document - we have identified the existance of this item from an official document from the publisher or creator of this game. The document used should be included in the source_notes field.
+  - third-party-document - we have identified the existance of this item from a trusted third party source. The document and source should be included in the source_notes field.
+  - inference - we have inferred the existance of this item from trusted documents, or other cards in the set.   For example, we have sourced 5 of 6 starter decks from Altered - Beyond the Gates.  Each of the five starter decks we sourced have a "New Player? Protect Your Collection" card that is themed to the starter deck's faction. We feel comfortable inferring that the sixth starter deck has a matching card for it's faction.  
+- images - a JSON list of filenames without extensions that can be used to uniquely identify images for the item.  A counterexample is the Trophy cards for L.O.L. Surprise Dance Off!. The Booster Pack states that there are 50 versions.   While we have not sourced all of them and are using placeholder names for the unsourced version, this is not an inference, but is a first-party-document source.  Inference is the lowest quality sourcing method and should be used very sparingly. 
 - attributes - a JSON object describing all relevant attributes of the game item.
 
 # Supported Data Formats
@@ -61,93 +66,94 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 # Current Game Statuses
 
-**Altered**: Total Items Identied = 523. Items imaged = 0/523 (0%), Items documented = 68/523 (13%)
+**Altered**: Total Items Identified = 523. Items imaged = 0/523 (0%), Items documented = 68/523 (13%)
 
-**Anime Madness**: Total Items Identied = 82. Items imaged = 82/82 (100%), Items documented = 0/82 (0%)
+**Anime Madness**: Total Items Identified = 82. Items imaged = 82/82 (100%), Items documented = 0/82 (0%)
 
-**Argent Saga**: Total Items Identied = 91. Items imaged = 0/91 (0%), Items documented = 0/91 (0%)
+**Argent Saga**: Total Items Identified = 91. Items imaged = 0/91 (0%), Items documented = 0/91 (0%)
 
-**Austin Powers Collectible Card Game**: Total Items Identied = 140. Items imaged = 140/140 (100%), Items documented = 140/140 (100%)
+**Austin Powers Collectible Card Game**: Total Items Identified = 140. Items imaged = 140/140 (100%), Items documented = 140/140 (100%)
 
-**Banemaster: The Adventure**: Total Items Identied = 311. Items imaged = 46/311 (15%), Items documented = 0/311 (0%)
+**Banemaster: The Adventure**: Total Items Identified = 311. Items imaged = 46/311 (15%), Items documented = 0/311 (0%)
 
-**Dice Masters**: Total Items Identied = 4251. Items imaged = 2147/4251 (51%), Items documented = 0/4251 (0%)
+**Dice Masters**: Total Items Identified = 4251. Items imaged = 2147/4251 (51%), Items documented = 0/4251 (0%)
 
-**Doomtown Reloaded**: Total Items Identied = 1257. Items imaged = 253/1257 (20%), Items documented = 0/1257 (0%)
+**Doomtown Reloaded**: Total Items Identified = 1257. Items imaged = 253/1257 (20%), Items documented = 0/1257 (0%)
 
-**Echelons of Fire**: Total Items Identied = 171. Items imaged = 159/171 (93%), Items documented = 0/171 (0%)
+**Echelons of Fire**: Total Items Identified = 171. Items imaged = 159/171 (93%), Items documented = 0/171 (0%)
 
-**Echelons of Fury**: Total Items Identied = 271. Items imaged = 262/271 (97%), Items documented = 0/271 (0%)
+**Echelons of Fury**: Total Items Identified = 271. Items imaged = 262/271 (97%), Items documented = 0/271 (0%)
 
-**Flights of Fantasy**: Total Items Identied = 127. Items imaged = 114/127 (90%), Items documented = 0/127 (0%)
+**Flights of Fantasy**: Total Items Identified = 127. Items imaged = 114/127 (90%), Items documented = 0/127 (0%)
 
-**Guardians**: Total Items Identied = 1004. Items imaged = 236/1004 (24%), Items documented = 0/1004 (0%)
+**Guardians**: Total Items Identified = 1004. Items imaged = 236/1004 (24%), Items documented = 0/1004 (0%)
 
-**Hecatomb**: Total Items Identied = 365. Items imaged = 0/365 (0%), Items documented = 0/365 (0%)
+**Hecatomb**: Total Items Identified = 365. Items imaged = 0/365 (0%), Items documented = 0/365 (0%)
 
-**Highlander: The Card Game**: Total Items Identied = 1484. Items imaged = 0/1484 (0%), Items documented = 0/1484 (0%)
+**Highlander: The Card Game**: Total Items Identified = 1484. Items imaged = 0/1484 (0%), Items documented = 0/1484 (0%)
 
-**Hyborian Gates**: Total Items Identied = 473. Items imaged = 434/473 (92%), Items documented = 0/473 (0%)
+**Hyborian Gates**: Total Items Identified = 473. Items imaged = 434/473 (92%), Items documented = 0/473 (0%)
 
-**L.O.L. Surprise! Dance Off!**: Total Items Identied = 450. Items imaged = 311/450 (69%), Items documented = 450/450 (100%)
+**Kult**: Total Items Identified = 393. Items imaged = 387/393 (98%), Items documented = 387/393 (98%)
 
-**Magi-Nation Duel**: Total Items Identied = 1376. Items imaged = 0/1376 (0%), Items documented = 0/1376 (0%)
+**L.O.L. Surprise! Dance Off!**: Total Items Identified = 450. Items imaged = 311/450 (69%), Items documented = 450/450 (100%)
 
-**Marvel Super Heroes Collector's Club Trading Card Game**: Total Items Identied = 164. Items imaged = 154/164 (94%), Items documented = 0/164 (0%)
+**Magi-Nation Duel**: Total Items Identified = 1376. Items imaged = 0/1376 (0%), Items documented = 0/1376 (0%)
 
-**MetaZoo (2021)**: Total Items Identied = 1049. Items imaged = 0/1049 (0%), Items documented = 0/1049 (0%)
+**Marvel Super Heroes Collector's Club Trading Card Game**: Total Items Identified = 164. Items imaged = 154/164 (94%), Items documented = 0/164 (0%)
 
-**Monster Magic**: Total Items Identied = 104. Items imaged = 0/104 (0%), Items documented = 57/104 (55%)
+**MetaZoo (2021)**: Total Items Identified = 1049. Items imaged = 0/1049 (0%), Items documented = 0/1049 (0%)
 
-**Monty Python and the Holy Grail Collectible Card Game**: Total Items Identied = 473. Items imaged = 166/473 (35%), Items documented = 0/473 (0%)
+**Monster Magic**: Total Items Identified = 104. Items imaged = 0/104 (0%), Items documented = 57/104 (55%)
 
-**On the Edge**: Total Items Identied = 1268. Items imaged = 667/1268 (53%), Items documented = 70/1268 (6%)
+**Monty Python and the Holy Grail Collectible Card Game**: Total Items Identified = 473. Items imaged = 166/473 (35%), Items documented = 0/473 (0%)
 
-**Ophidian 2350**: Total Items Identied = 240. Items imaged = 239/240 (100%), Items documented = 0/240 (0%)
+**On the Edge**: Total Items Identified = 1268. Items imaged = 667/1268 (53%), Items documented = 70/1268 (6%)
 
-**OverPower**: Total Items Identied = 346. Items imaged = 0/346 (0%), Items documented = 0/346 (0%)
+**Ophidian 2350**: Total Items Identified = 240. Items imaged = 239/240 (100%), Items documented = 0/240 (0%)
 
-**Powercardz**: Total Items Identied = 496. Items imaged = 227/496 (46%), Items documented = 0/496 (0%)
+**OverPower**: Total Items Identified = 346. Items imaged = 0/346 (0%), Items documented = 0/346 (0%)
 
-**Racing Challenge**: Total Items Identied = 231. Items imaged = 138/231 (60%), Items documented = 33/231 (14%)
+**Powercardz**: Total Items Identified = 496. Items imaged = 227/496 (46%), Items documented = 0/496 (0%)
 
-**Rage (1995)**: Total Items Identied = 1302. Items imaged = 1103/1302 (85%), Items documented = 1302/1302 (100%)
+**Racing Challenge**: Total Items Identified = 231. Items imaged = 138/231 (60%), Items documented = 33/231 (14%)
 
-**Redemption**: Total Items Identied = 4110. Items imaged = 995/4110 (24%), Items documented = 0/4110 (0%)
+**Rage (1995)**: Total Items Identified = 1302. Items imaged = 1103/1302 (85%), Items documented = 1302/1302 (100%)
 
-**Sand Land Tactical Card Battle**: Total Items Identied = 145. Items imaged = 145/145 (100%), Items documented = 145/145 (100%)
+**Redemption**: Total Items Identified = 4110. Items imaged = 995/4110 (24%), Items documented = 0/4110 (0%)
 
-**Sim City: The Card Game**: Total Items Identied = 1111. Items imaged = 0/1111 (0%), Items documented = 0/1111 (0%)
+**Sand Land Tactical Card Battle**: Total Items Identified = 145. Items imaged = 145/145 (100%), Items documented = 145/145 (100%)
 
-**Star Trek Customizable Card Game**: Total Items Identied = 3768. Items imaged = 0/3768 (0%), Items documented = 0/3768 (0%)
+**Sim City: The Card Game**: Total Items Identified = 1111. Items imaged = 0/1111 (0%), Items documented = 0/1111 (0%)
 
-**Star Wars Customizable Card Game**: Total Items Identied = 3733. Items imaged = 0/3733 (0%), Items documented = 0/3733 (0%)
+**Star Trek Customizable Card Game**: Total Items Identified = 3768. Items imaged = 0/3768 (0%), Items documented = 0/3768 (0%)
 
-**Tempest of the Gods**: Total Items Identied = 270. Items imaged = 166/270 (61%), Items documented = 270/270 (100%)
+**Star Wars Customizable Card Game**: Total Items Identified = 3733. Items imaged = 0/3733 (0%), Items documented = 0/3733 (0%)
 
-**The Crow**: Total Items Identied = 123. Items imaged = 26/123 (21%), Items documented = 123/123 (100%)
+**Tempest of the Gods**: Total Items Identified = 270. Items imaged = 166/270 (61%), Items documented = 270/270 (100%)
 
-**The Nightmare Before Christmas Trading Card Game**: Total Items Identied = 295. Items imaged = 268/295 (91%), Items documented = 295/295 (100%)
+**The Crow**: Total Items Identified = 123. Items imaged = 26/123 (21%), Items documented = 123/123 (100%)
 
-**The Spoils**: Total Items Identied = 3767. Items imaged = 1576/3767 (42%), Items documented = 0/3767 (0%)
+**The Nightmare Before Christmas Trading Card Game**: Total Items Identified = 295. Items imaged = 268/295 (91%), Items documented = 295/295 (100%)
 
-**The Super Mario Bros Movie Trading Card Game**: Total Items Identied = 100. Items imaged = 100/100 (100%), Items documented = 100/100 (100%)
+**The Spoils**: Total Items Identified = 3767. Items imaged = 1576/3767 (42%), Items documented = 0/3767 (0%)
 
-**Tomb Raider Collectible Card Game**: Total Items Identied = 592. Items imaged = 275/592 (46%), Items documented = 0/592 (0%)
+**The Super Mario Bros Movie Trading Card Game**: Total Items Identified = 100. Items imaged = 100/100 (100%), Items documented = 100/100 (100%)
 
-**Topps Attax**: Total Items Identied = 517. Items imaged = 99/517 (19%), Items documented = 0/517 (0%)
+**Tomb Raider Collectible Card Game**: Total Items Identified = 592. Items imaged = 275/592 (46%), Items documented = 0/592 (0%)
 
-**Towers in Time**: Total Items Identied = 205. Items imaged = 130/205 (63%), Items documented = 0/205 (0%)
+**Topps Attax**: Total Items Identified = 517. Items imaged = 99/517 (19%), Items documented = 0/517 (0%)
 
-**Vampire: The Masquerade Rivals**: Total Items Identied = 270. Items imaged = 270/270 (100%), Items documented = 0/270 (0%)
+**Towers in Time**: Total Items Identified = 205. Items imaged = 130/205 (63%), Items documented = 0/205 (0%)
 
-**WARS Trading Card Game**: Total Items Identied = 633. Items imaged = 352/633 (56%), Items documented = 0/633 (0%)
+**Vampire: The Masquerade Rivals**: Total Items Identified = 270. Items imaged = 270/270 (100%), Items documented = 0/270 (0%)
 
-**World of Warriors Trading Card Game**: Total Items Identied = 264. Items imaged = 0/264 (0%), Items documented = 0/264 (0%)
+**WARS Trading Card Game**: Total Items Identified = 633. Items imaged = 352/633 (56%), Items documented = 0/633 (0%)
 
-**WWE Raw Deal**: Total Items Identied = 3699. Items imaged = 0/3699 (0%), Items documented = 0/3699 (0%)
+**World of Warriors Trading Card Game**: Total Items Identified = 264. Items imaged = 0/264 (0%), Items documented = 0/264 (0%)
 
-**Xena: Warrior Princess**: Total Items Identied = 255. Items imaged = 170/255 (67%), Items documented = 0/255 (0%)
+**WWE Raw Deal**: Total Items Identified = 3699. Items imaged = 0/3699 (0%), Items documented = 0/3699 (0%)
 
-**XXXenophile**: Total Items Identied = 270. Items imaged = 127/270 (47%), Items documented = 0/270 (0%)
+**Xena: Warrior Princess**: Total Items Identified = 255. Items imaged = 170/255 (67%), Items documented = 0/255 (0%)
 
+**XXXenophile**: Total Items Identified = 270. Items imaged = 127/270 (47%), Items documented = 0/270 (0%)

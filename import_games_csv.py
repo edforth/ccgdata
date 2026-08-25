@@ -37,11 +37,12 @@ def import_games_csv(import_csv_path, database_url):
                 tags_list = json.loads(row['tags']) 
                 links_dict = json.loads(row['links']) 
                 related_game_ids_list = json.loads(row['related_game_ids']) 
-                
+
                 try:
                     source_notes_dict = json.loads(row['source_notes'])
                 except (json.JSONDecodeError, ValueError):
                     source_notes_dict = {}
+                
                 if 'id' in row and is_valid_uuid(row['id']) == True:
                     row_id = row['id']
                 else:

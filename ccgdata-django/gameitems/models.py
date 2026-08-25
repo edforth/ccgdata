@@ -6,7 +6,12 @@ import uuid
 class Artist(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4)
     name = models.TextField()
+    first_name = models.TextField(blank=True, null=True)
+    last_name = models.TextField(blank=True, null=True)
+    printed_aliases = models.JSONField(default=list, blank=True)
+    tags = models.JSONField(default=list, blank=True)
     links = models.JSONField(default=dict, blank=True)
+    source_notes = models.JSONField(default=dict, blank=True)
     artist_name_slug = models.TextField(unique=True)
     def __str__(self):
         return self.artist_name_slug
