@@ -23,10 +23,10 @@ import_csvs = [
     #, 'import/ccgdata_gameitems_hecatomb.csv'
     #, 'import/ccgdata_gameitems_highlander.csv'
     #, 'import/ccgdata_gameitems_hyborian-gates.csv'
-    #, 
-    'import/ccgdata_gameitems_kult.csv'
+    #, 'import/ccgdata_gameitems_kult.csv'
     #, 'import/ccgdata_gameitems_lol-surprise.csv'
     #, 'import/ccgdata_gameitems_magi-nation-duel.csv'
+    'import/ccgdata_gameitems_marvel-recharge.csv'
     #, 'import/ccgdata_gameitems_marvel-superheroes-collectors-club.csv'
     #, 'import/ccgdata_gameitems_metazoo-2021.csv'
     #, 'import/ccgdata_gameitems_monster-magic.csv'
