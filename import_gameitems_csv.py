@@ -9,7 +9,7 @@ load_dotenv()
 
 
 import_csvs = [
-    #'import/ccgdata_gameitems_altered.csv'
+    'import/ccgdata_gameitems_altered.csv'
     #, 'import/ccgdata_gameitems_anime-madness.csv'
     #, 'import/ccgdata_gameitems_argent-saga.csv'
     #, 'import/ccgdata_gameitems_austin-powers.csv'
@@ -21,8 +21,7 @@ import_csvs = [
     #, 'import/ccgdata_gameitems_echelons-of-fury.csv'
     #, 'import/ccgdata_gameitems_flights-of-fantasy.csv'
     #, 'import/ccgdata_gameitems_guardians.csv'
-    #, 
-    'import/ccgdata_gameitems_gridiron.csv'
+    #, 'import/ccgdata_gameitems_gridiron.csv'
     #, 'import/ccgdata_gameitems_hecatomb.csv'
     #, 'import/ccgdata_gameitems_highlander.csv'
     #, 'import/ccgdata_gameitems_hyborian-gates.csv'
