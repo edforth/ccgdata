@@ -283,9 +283,9 @@ a9a3dcc3-e336-4252-bcf0-d6f5d9a7965f,b6af15d3-0e29-400f-8435-9364930fd356,Welcom
 717d1bab-231c-4ec1-8dd0-34dbb05700c9,ddd28a06-d746-4538-a677-12ecad445c8f,Paradise Lost,doomtrooper_paradise-lost,"[""Heartbreaker Hobbies"", ""Target Games AB""]",,1997,,,124,{}
 dd91d18f-4577-4f21-a6b1-6894a228dc98,ddd28a06-d746-4538-a677-12ecad445c8f,Unlimited,doomtrooper_unlimited,"[""Heartbreaker Hobbies"", ""Target Games AB""]",,1995,3,,345,{}
 6f855890-abb7-4d13-af67-2f250567e00d,ddd28a06-d746-4538-a677-12ecad445c8f,Warzone,doomtrooper_warzone,"[""Heartbreaker Hobbies"", ""Target Games AB""]",,1995,8,,131,{}
-79fd6439-c0fc-49eb-bc87-c5b89fd5036c,005f010e-fe25-4f9d-9f56-f4d60f62cfd3,Frieza Saga,dragon-ball-z-trading-card-game-(2000)_frieza-saga,"[""Score""]",,2000,10,,125,{}
-62ef5ca0-f15d-45dd-8dd0-9abfde1ed638,005f010e-fe25-4f9d-9f56-f4d60f62cfd3,Other,dragon-ball-z-trading-card-game-(2000)_other,"[""Score""]",,,,,32,{}
-987c9ae7-f626-4c66-a9f1-e55f2d5e9dde,005f010e-fe25-4f9d-9f56-f4d60f62cfd3,Saiyan Saga,dragon-ball-z-trading-card-game-(2000)_saiyan-saga,"[""Score""]",,2000,6,,250,{}
+79fd6439-c0fc-49eb-bc87-c5b89fd5036c,005f010e-fe25-4f9d-9f56-f4d60f62cfd3,Frieza Saga,dragon-ball-z-collectible-card-game_frieza-saga,"[""Score""]",,2000,10,,125,{}
+62ef5ca0-f15d-45dd-8dd0-9abfde1ed638,005f010e-fe25-4f9d-9f56-f4d60f62cfd3,Other,dragon-ball-z-collectible-card-game_other,"[""Score""]",,,,,32,{}
+987c9ae7-f626-4c66-a9f1-e55f2d5e9dde,005f010e-fe25-4f9d-9f56-f4d60f62cfd3,Saiyan Saga,dragon-ball-z-collectible-card-game_saiyan-saga,"[""Score""]",,2000,6,,250,{}
 ff9bc07a-b178-4811-912a-286abe1a1252,3c391c54-dc72-436d-9264-4f199ce03119,Set 1: Premier Set,dragon-ball-z-trading-card-game-(2014)_set-1--premier-set,"[""Panini""]",,,,,,"{""set_name_notes"": ""Set included in Jason Matz's CCG Checklist""}"
 5cfba199-9633-4bb8-a23b-d10b2bbcc845,3c391c54-dc72-436d-9264-4f199ce03119,Set 2: Heroes and Villians,dragon-ball-z-trading-card-game-(2014)_set-2--heroes-and-villians,"[""Panini""]",,,,,,"{""set_name_notes"": ""Set included in Jason Matz's CCG Checklist""}"
 3256f201-8ba8-44b1-978a-1df5bcf2d31f,3c391c54-dc72-436d-9264-4f199ce03119,Set 3: Movie Collection,dragon-ball-z-trading-card-game-(2014)_set-3--movie-collection,"[""Panini""]",,,,,,"{""set_name_notes"": ""Set included in Jason Matz's CCG Checklist""}"
@@ -496,13 +496,20 @@ a4d62d55-08b8-4696-ae77-26a159a8ef7a,192384df-ddc4-4c8f-9ef7-2dd82e628412,Mortal
 b9d4f2d1-a683-4014-8dca-44af2e5a75c1,75228c6a-3989-4ec3-9b63-3c9cb5cb0fde,The Desolation of Blarg,munchkin-collectible-card-game_the-desolation-of-blarg,"[""Steve Jackson Games""]",,2018,5,,,"{""release_date_notes"": ""Release date sourced from official website: https://munchkinccg.sjgames.com/products/season1/""}"
 44208519-99dc-4c44-abf3-e77b13094cb9,b70c95dd-298e-4878-9eed-0eeb00ae4782,Absolute Discord,my-little-pony-collectible-card-game_absolute-discord,[],,,,,,{}
 2d694407-43e3-4ce1-b0e0-8e6d879304d3,b70c95dd-298e-4878-9eed-0eeb00ae4782,Canterlot Nights,my-little-pony-collectible-card-game_canterlot-nights,[],,,,,,{}
+5b7d739a-3394-406d-bbe0-dcb7daaf5ed3,b70c95dd-298e-4878-9eed-0eeb00ae4782,Celestial Solstice,my-little-pony-collectible-card-game_celestial-solstice,[],,,,,,{}
 2c17075b-b7cb-4054-b27a-f7370c57333d,b70c95dd-298e-4878-9eed-0eeb00ae4782,Defenders of Equestria,my-little-pony-collectible-card-game_defenders-of-equestria,[],,,,,,{}
 b67d6887-338f-4a03-95ca-d4ea62c8d7c8,b70c95dd-298e-4878-9eed-0eeb00ae4782,Equestrian Odysseys,my-little-pony-collectible-card-game_equestrian-odysseys,[],,,,,,{}
+2ee38dab-bcd1-4868-954d-8d812d5bd64e,b70c95dd-298e-4878-9eed-0eeb00ae4782,Friends Forever,my-little-pony-collectible-card-game_friends-forever,[],,,,,,{}
+e56c4149-3cb9-4b57-9fb6-090e5a5a3b3a,b70c95dd-298e-4878-9eed-0eeb00ae4782,GenCon Promos,my-little-pony-collectible-card-game_gencon-promos,[],,,,,,{}
 d58fcd86-26c5-4407-a99c-9e68f35eef27,b70c95dd-298e-4878-9eed-0eeb00ae4782,Generic Fixed,my-little-pony-collectible-card-game_generic-fixed,[],,,,,,"{""set_name_notes"": ""https://mlpccg.fandom.com/wiki/Generic_Fixed_Set""}"
 0300ea39-3528-4837-a165-e4fc25591a6a,b70c95dd-298e-4878-9eed-0eeb00ae4782,High Magic,my-little-pony-collectible-card-game_high-magic,[],,,,,,{}
+eb174e23-936a-4590-9164-302db2ea0c5e,b70c95dd-298e-4878-9eed-0eeb00ae4782,Leaders and Legends,my-little-pony-collectible-card-game_leaders-and-legends,[],,,,,,{}
 ddffde39-e7e8-4f2d-bdad-19f60a0f8140,b70c95dd-298e-4878-9eed-0eeb00ae4782,Marks in Time,my-little-pony-collectible-card-game_marks-in-time,[],,,,,,{}
+6123c728-3454-43dd-93b0-deb6bf9254f8,b70c95dd-298e-4878-9eed-0eeb00ae4782,New Dawn,my-little-pony-collectible-card-game_new-dawn,[],,,,,,{}
 1f6674dd-bb28-4c86-ac51-56d2f7d3b1d0,b70c95dd-298e-4878-9eed-0eeb00ae4782,Premiere,my-little-pony-collectible-card-game_premiere,[],,,,,,{}
 3999e647-cfb5-4aef-81b9-3b51630bdc6f,b70c95dd-298e-4878-9eed-0eeb00ae4782,Rock N Rave Two Player Theme Deck,my-little-pony-collectible-card-game_rock-n-rave-two-player-theme-deck,[],,,,,,"{""set_name_notes"": ""mlpccg.fandom.com/wiki/Rock_N_Rave""}"
+2ff33a88-3653-444b-b4ef-c9c5290149a7,b70c95dd-298e-4878-9eed-0eeb00ae4782,Sands of Time,my-little-pony-collectible-card-game_sands-of-time,[],,,,,,{}
+6e57b01a-16df-4cd0-9121-6fb6a54f3b60,b70c95dd-298e-4878-9eed-0eeb00ae4782,Seaquestria & Beyond,my-little-pony-collectible-card-game_seaquestria-&-beyond,[],,,,,,{}
 926e6153-7ff0-4e0e-aa61-4bf8f22511b3,b70c95dd-298e-4878-9eed-0eeb00ae4782,The Crystal Games,my-little-pony-collectible-card-game_the-crystal-games,[],,,,,,{}
 55e5e414-53bc-4463-b413-4003b7c45acd,bbcdc8c0-7385-4b2e-968c-9d034e65a94b,Cthulu Rising,mythos_cthulu-rising,"[""Chaosium""]",,1996,4,,67,{}
 cddb2783-3f97-4bd5-8dbe-0b71b5624b66,bbcdc8c0-7385-4b2e-968c-9d034e65a94b,Dreamlands Limited,mythos_dreamlands-limited,"[""Chaosium""]",,1997,1,,210,{}
@@ -609,6 +616,9 @@ aea8798d-76c0-45e8-b9bd-1992665793fe,2c346542-0a1a-4902-87f2-5a77d60d4cf5,Premie
 05a4fb59-e06b-4ef1-ba48-e6a90088f572,8a2df42a-283f-49cb-9e1a-4ae10c5baeef,Base Set,sand-land-tactical-card-battle_base-set,[],,,,,,{}
 6a25ea12-908f-4b1a-a862-179748077c4f,26274600-5b46-4d91-8f35-4ff8b1b9d4a0,Alien Invaders,scooby-doo!-expandable-card-game_alien-invaders,"[""Journeyman Press""]",,,,,,{}
 b62d13ed-122b-407b-b657-97b3dcefacea,26274600-5b46-4d91-8f35-4ff8b1b9d4a0,Scooby-Doo!,scooby-doo!-expandable-card-game_scooby-doo!,"[""Journeyman Press""]",,2000,8,,219,{}
+d4039eda-661c-4085-8257-fb531ec61436,d8327757-6eec-4e1a-b7dc-7fb962f9b10c,Call of the Crystals,shadow-era_call-of-the-crystals,[],,,,,,{}
+2edb20d5-da8d-4ac0-a0fa-4e23ee9d18fa,d8327757-6eec-4e1a-b7dc-7fb962f9b10c,Dark Prophecies,shadow-era_dark-prophecies,[],,,,,,{}
+e54dfc76-db92-4f8d-a1cf-cdc337d4d1cc,d8327757-6eec-4e1a-b7dc-7fb962f9b10c,Shattered Fates,shadow-era_shattered-fates,[],,,,,,{}
 4a1545af-b7bc-470f-9577-506a2d6c3196,2e3db55d-0824-44dd-a3f0-8d5288175dd8,Flashpoint,shadowfist_flashpoint,"[""Daedalus""]",,1996,3,,145,"{""set_name_notes"": ""Scrye Collectible Card Game Checklist & Price Guide First Edition""}"
 4005f80a-13bd-4d2c-a40e-e827d367622e,2e3db55d-0824-44dd-a3f0-8d5288175dd8,Limited,shadowfist_limited,"[""Daedalus""]",,1995,6,,323,"{""set_name_notes"": ""Scrye Collectible Card Game Checklist & Price Guide First Edition""}"
 6fd73195-49a5-429d-b514-b71a720afa4d,2e3db55d-0824-44dd-a3f0-8d5288175dd8,Netherworld,shadowfist_netherworld,"[""Daedalus""]",,1995,8,,134,"{""set_name_notes"": ""Scrye Collectible Card Game Checklist & Price Guide First Edition""}"

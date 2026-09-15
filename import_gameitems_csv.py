@@ -9,7 +9,7 @@ load_dotenv()
 
 
 import_csvs = [
-    'import/ccgdata_gameitems_altered.csv'
+    #'import/ccgdata_gameitems_altered.csv'
     #, 'import/ccgdata_gameitems_anime-madness.csv'
     #, 'import/ccgdata_gameitems_argent-saga.csv'
     #, 'import/ccgdata_gameitems_austin-powers.csv'
@@ -33,6 +33,8 @@ import_csvs = [
     #, 'import/ccgdata_gameitems_metazoo-2021.csv'
     #, 'import/ccgdata_gameitems_monster-magic.csv'
     #, 'import/ccgdata_gameitems_monty-python.csv'
+    #, 
+    'import/ccgdata_gameitems_my-little-pony-(2014).csv'
     #, 'import/ccgdata_gameitems_on-the-edge.csv'
     #, 'import/ccgdata_gameitems_ophidian-2350.csv'
     #, 'import/ccgdata_gameitems_overpower.csv'
@@ -41,6 +43,7 @@ import_csvs = [
     #, 'import/ccgdata_gameitems_rage.csv'
     #, 'import/ccgdata_gameitems_redemption.csv'
     #, 'import/ccgdata_gameitems_sand-land.csv'
+    #, 'import/ccgdata_gameitems_shadow-era.csv'
     #, 'import/ccgdata_gameitems_simcity.csv'
     #, 'import/ccgdata_gameitems_star-trek-ccg.csv'
     #, 'import/ccgdata_gameitems_star-wars-ccg.csv'

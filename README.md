@@ -76,9 +76,11 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 **Banemaster: The Adventure**: Total Items Identified = 311. Items imaged = 46/311 (15%), Items documented = 0/311 (0%)
 
-**Dice Masters**: Total Items Identified = 4251. Items imaged = 2147/4251 (51%), Items documented = 0/4251 (0%)
+**Dice Masters**: Total Items Identified = 4252. Items imaged = 2150/4252 (51%), Items documented = 0/4252 (0%)
 
 **Doomtown Reloaded**: Total Items Identified = 1257. Items imaged = 253/1257 (20%), Items documented = 0/1257 (0%)
+
+**Dragon Ball Z Trading Card Game (2014)**: Total Items Identified = 1651. Items imaged = 56/1651 (3%), Items documented = 0/1651 (0%)
 
 **Echelons of Fire**: Total Items Identified = 171. Items imaged = 159/171 (93%), Items documented = 0/171 (0%)
 
@@ -86,11 +88,13 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 **Flights of Fantasy**: Total Items Identified = 127. Items imaged = 114/127 (90%), Items documented = 0/127 (0%)
 
+**Gridiron Fantasy Football**: Total Items Identified = 359. Items imaged = 125/359 (35%), Items documented = 0/359 (0%)
+
 **Guardians**: Total Items Identified = 1004. Items imaged = 236/1004 (24%), Items documented = 0/1004 (0%)
 
 **Hecatomb**: Total Items Identified = 365. Items imaged = 0/365 (0%), Items documented = 0/365 (0%)
 
-**Highlander: The Card Game**: Total Items Identified = 1484. Items imaged = 0/1484 (0%), Items documented = 0/1484 (0%)
+**Highlander: The Card Game**: Total Items Identified = 1487. Items imaged = 80/1487 (5%), Items documented = 0/1487 (0%)
 
 **Hyborian Gates**: Total Items Identified = 473. Items imaged = 434/473 (92%), Items documented = 0/473 (0%)
 
@@ -100,13 +104,17 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 **Magi-Nation Duel**: Total Items Identified = 1376. Items imaged = 0/1376 (0%), Items documented = 0/1376 (0%)
 
-**Marvel Super Heroes Collector's Club Trading Card Game**: Total Items Identified = 164. Items imaged = 154/164 (94%), Items documented = 0/164 (0%)
+**Marvel ReCharge**: Total Items Identified = 500. Items imaged = 0/500 (0%), Items documented = 43/500 (9%)
 
-**MetaZoo (2021)**: Total Items Identified = 1049. Items imaged = 0/1049 (0%), Items documented = 0/1049 (0%)
+**Marvel Super Heroes Collector's Club Trading Card Game**: Total Items Identified = 166. Items imaged = 154/166 (93%), Items documented = 166/166 (100%)
+
+**MetaZoo (2021)**: Total Items Identified = 1807. Items imaged = 310/1807 (17%), Items documented = 0/1807 (0%)
 
 **Monster Magic**: Total Items Identified = 104. Items imaged = 0/104 (0%), Items documented = 57/104 (55%)
 
 **Monty Python and the Holy Grail Collectible Card Game**: Total Items Identified = 473. Items imaged = 166/473 (35%), Items documented = 0/473 (0%)
+
+**My Little Pony Collectible Card Game**: Total Items Identified = 2512. Items imaged = 200/2512 (8%), Items documented = 0/2512 (0%)
 
 **On the Edge**: Total Items Identified = 1268. Items imaged = 667/1268 (53%), Items documented = 70/1268 (6%)
 
@@ -120,15 +128,17 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 **Rage (1995)**: Total Items Identified = 1302. Items imaged = 1103/1302 (85%), Items documented = 1302/1302 (100%)
 
-**Redemption**: Total Items Identified = 4110. Items imaged = 995/4110 (24%), Items documented = 0/4110 (0%)
+**Redemption**: Total Items Identified = 4014. Items imaged = 1240/4014 (31%), Items documented = 0/4014 (0%)
 
 **Sand Land Tactical Card Battle**: Total Items Identified = 145. Items imaged = 145/145 (100%), Items documented = 145/145 (100%)
+
+**Shadow Era**: Total Items Identified = 555. Items imaged = 169/555 (30%), Items documented = 0/555 (0%)
 
 **Sim City: The Card Game**: Total Items Identified = 1111. Items imaged = 0/1111 (0%), Items documented = 0/1111 (0%)
 
 **Star Trek Customizable Card Game**: Total Items Identified = 3768. Items imaged = 0/3768 (0%), Items documented = 0/3768 (0%)
 
-**Star Wars Customizable Card Game**: Total Items Identified = 3733. Items imaged = 0/3733 (0%), Items documented = 0/3733 (0%)
+**Star Wars Customizable Card Game**: Total Items Identified = 3733. Items imaged = 908/3733 (24%), Items documented = 0/3733 (0%)
 
 **Tempest of the Gods**: Total Items Identified = 270. Items imaged = 166/270 (61%), Items documented = 270/270 (100%)
 
@@ -136,7 +146,7 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 **The Nightmare Before Christmas Trading Card Game**: Total Items Identified = 295. Items imaged = 268/295 (91%), Items documented = 295/295 (100%)
 
-**The Spoils**: Total Items Identified = 3767. Items imaged = 1576/3767 (42%), Items documented = 0/3767 (0%)
+**The Spoils**: Total Items Identified = 3766. Items imaged = 1576/3766 (42%), Items documented = 0/3766 (0%)
 
 **The Super Mario Bros Movie Trading Card Game**: Total Items Identified = 100. Items imaged = 100/100 (100%), Items documented = 100/100 (100%)
 
@@ -152,7 +162,7 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 **World of Warriors Trading Card Game**: Total Items Identified = 264. Items imaged = 0/264 (0%), Items documented = 0/264 (0%)
 
-**WWE Raw Deal**: Total Items Identified = 3699. Items imaged = 0/3699 (0%), Items documented = 0/3699 (0%)
+**WWF Raw Deal**: Total Items Identified = 3699. Items imaged = 211/3699 (6%), Items documented = 0/3699 (0%)
 
 **Xena: Warrior Princess**: Total Items Identified = 255. Items imaged = 170/255 (67%), Items documented = 0/255 (0%)
 
