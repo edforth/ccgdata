@@ -312,6 +312,7 @@ b06f8737-81f0-4442-8851-eb84e626e84f,22a59c90-e273-4dc5-95d2-307565d2a252,2nd Ed
 b2db97ed-487f-4ffd-9b62-e19ee7c15f49,22a59c90-e273-4dc5-95d2-307565d2a252,First Edition,echelons-of-fury_first-edition,"[""Medallion Simulations""]",,1995,5,,62,{}
 aded4c61-d9d5-48bf-8754-21d6143377f9,22a59c90-e273-4dc5-95d2-307565d2a252,Pacific Campaign,echelons-of-fury_pacific-campaign,"[""Medallion Simulations""]",,1995,12,,96,{}
 950d6643-a5c1-46f3-bc2e-9b21fecd723c,be548865-2e3d-4f98-b007-441934a8f6ec,Fantasy Adventures,fantasy-adventures_fantasy-adventures,"[""Mayfair Games""]",,1996,6,,450,{}
+9f5d7527-7a70-4f5b-88cc-757cf6dee553,be548865-2e3d-4f98-b007-441934a8f6ec,Other,fantasy-adventures_other,[],,,,,,
 58403e7a-006b-45e1-96e0-fefc097f3741,187b7415-c8ee-43b1-8fed-1cf4b7fd4559,One-on-One Basketball,fast-break_one-on-one-basketball,"[""Wildstorm""]",,1996,8,,305,{}
 e4fb1c5d-a138-4747-8432-c72de6a4aa2b,a950a309-b86c-4126-b0d3-4ca123a30f06,Flights of Fantasy,flights-of-fantasy_flights-of-fantasy,"[""Destini Productions""]",,1994,9,,,{}
 fe17374a-985b-49ee-b1e9-8fab8b5da122,a950a309-b86c-4126-b0d3-4ca123a30f06,Other,flights-of-fantasy_other,"[""Destini Productions""]",,,,,118,{}
@@ -525,6 +526,7 @@ c009fbe9-9a48-4c14-a52a-51f7c4f5cd22,e8536afc-77d1-4084-835b-1c8dd06b043c,Proteu
 b2fa7b16-725d-44b1-8430-6135b7c922c6,08a3f1c9-b324-4679-9055-0eccbf1c4dde,Base Set (1st Edition),nostalgix_base-set-(1st-edition),[],,,,,,{}
 99a68318-03dc-4da7-8eea-3202d3220769,08a3f1c9-b324-4679-9055-0eccbf1c4dde,Base Set (Day Zero),nostalgix_base-set-(day-zero),[],,,,,,{}
 be06552d-e170-44c3-b4f2-7501ba23e21e,08a3f1c9-b324-4679-9055-0eccbf1c4dde,Harmonic Surge (1st Edition),nostalgix_harmonic-surge-(1st-edition),[],,,,,,{}
+20660a77-0983-47ab-b671-3146a322b4c5,08a3f1c9-b324-4679-9055-0eccbf1c4dde,Other,nostalgix_other,[],,,,,,{}
 029c2119-9240-4217-8a80-0c57accdeaea,6391307d-e305-49ee-9a5e-7b86c63c81d2,Arcana,on-the-edge_arcana,"[""Atlas Games"", ""Trident""]",,1995,8,,117,{}
 d4d707ae-825f-4721-b95a-095f5ccf4cc5,6391307d-e305-49ee-9a5e-7b86c63c81d2,Limited Edition,on-the-edge_limited-edition,"[""Atlas Games"", ""Trident""]",,1994,10,,269,{}
 f860ed19-b61c-4c14-97a1-7ee93e7c4fb0,6391307d-e305-49ee-9a5e-7b86c63c81d2,Other,on-the-edge_other,"[""Atlas Games"", ""Trident""]",,1994,12,,269,{}
@@ -871,3 +873,17 @@ e33e333c-f116-4e5b-8c21-17ba08cbd974,2eef16c7-bc70-46e6-8ef4-17b5d37791b5,Enhanc
 2baa0e9b-18d1-4635-b949-0a0d20d9732f,14f14a03-4602-4808-8c78-3c62c2e76457,Dark Tournament,yu-yu-hakusho-trading-card-game_dark-tournament,[],,,,,,"{""set_name_notes"": ""Sourced from cardgamecollector.com"", ""release_date_notes"": ""release date per cardgamecollector.com""}"
 1817a9b2-5b2a-4740-9dc0-aef8091f45f1,14f14a03-4602-4808-8c78-3c62c2e76457,Exile,yu-yu-hakusho-trading-card-game_exile,[],,,,,,"{""set_name_notes"": ""Sourced from cardgamecollector.com"", ""release_date_notes"": ""release date per cardgamecollector.com""}"
 bda011e3-eeae-46fb-88c2-8483c8e42e01,14f14a03-4602-4808-8c78-3c62c2e76457,Gateway,yu-yu-hakusho-trading-card-game_gateway,[],,,,,,"{""set_name_notes"": ""Sourced from cardgamecollector.com"", ""release_date_notes"": ""release date per cardgamecollector.com""}"
+b71140a6-11b7-486a-aa6e-c51ac35a4bcd,0547050d-132c-46cd-981e-5e159dfdcf2d,Booster Pack Vol. 1: Rally To War,dragoborne--rise-to-supremacy_booster-pack-vol--1--rally-to-war,[],,,,,,{}
+792e51a8-a486-4d2c-84a2-950a2397ab71,0547050d-132c-46cd-981e-5e159dfdcf2d,Booster Pack Vol. 2: Oath of Blood,dragoborne--rise-to-supremacy_booster-pack-vol--2--oath-of-blood,[],,,,,,{}
+baa9e9e5-bf4c-4943-8143-05080ada1ead,0547050d-132c-46cd-981e-5e159dfdcf2d,Booster Pack Vol. 3: Gears of Apocalypse,dragoborne--rise-to-supremacy_booster-pack-vol--3--gears-of-apocalypse,[],,,,,,{}
+b07a6c04-cbaf-4b84-8016-740126c9cb80,0547050d-132c-46cd-981e-5e159dfdcf2d,Booster Pack Vol. 4: Surge of Titans,dragoborne--rise-to-supremacy_booster-pack-vol--4--surge-of-titans,[],,,,,,{}
+dd9c9c3f-163b-4e9e-884b-7dc8e2bbd06d,0547050d-132c-46cd-981e-5e159dfdcf2d,Booster Pack Vol. 5: Reckoning of Vashr,dragoborne--rise-to-supremacy_booster-pack-vol--5--reckoning-of-vashr,[],,,,,,{}
+db477dc7-d298-4198-975a-07e2b17a4945,0547050d-132c-46cd-981e-5e159dfdcf2d,Other,dragoborne--rise-to-supremacy_other,[],,,,,,{}
+01706227-04df-4c0b-90e6-9380754afeed,0547050d-132c-46cd-981e-5e159dfdcf2d,Trial Deck Vol. 4: Reaper's Gift,dragoborne--rise-to-supremacy_trial-deck-vol--4--reaper-s-gift,[],,,,,,"{""set_name_notes"": ""https://dragoborne.fandom.com/wiki/List_of_Dragoborne_Trial_Decks""}"
+70d84bcc-5a6a-4d7b-aa61-781814df4418,0547050d-132c-46cd-981e-5e159dfdcf2d,Trial Deck Vol. 3: Alpha Dominance,dragoborne--rise-to-supremacy_trial-deck-vol--3--alpha-dominance,[],,,,,,"{""set_name_notes"": ""https://dragoborne.fandom.com/wiki/List_of_Dragoborne_Trial_Decks""}"
+60246360-b118-4654-81af-7bbe13150f5f,0547050d-132c-46cd-981e-5e159dfdcf2d,Trial Deck Vol. 1: Shadow Legion,dragoborne--rise-to-supremacy_trial-deck-vol--1--shadow-legion,[],,,,,,"{""set_name_notes"": ""https://dragoborne.fandom.com/wiki/List_of_Dragoborne_Trial_Decks""}"
+04c11f05-f521-4ae2-9163-054703cb7d60,0547050d-132c-46cd-981e-5e159dfdcf2d,Trial Deck Vol. 2: Mystical Hunters,dragoborne--rise-to-supremacy_trial-deck-vol--2--mystical-hunters,[],,,,,,"{""set_name_notes"": ""https://dragoborne.fandom.com/wiki/List_of_Dragoborne_Trial_Decks""}"
+696cd68a-3e08-4193-8120-5c12e6f9d5f1,0547050d-132c-46cd-981e-5e159dfdcf2d,Trial Deck Vol. 5: Nature's Wrath,dragoborne--rise-to-supremacy_trial-deck-vol--5--nature-s-wrath,[],,,,,,"{""set_name_notes"": ""https://dragoborne.fandom.com/wiki/List_of_Dragoborne_Trial_Decks""}"
+fb8bf8da-5a6d-42ac-b2dd-18f15ceb985b,0547050d-132c-46cd-981e-5e159dfdcf2d,Demo Deck,dragoborne--rise-to-supremacy_demo-deck,[],,,,,,{}
+61296bb1-f8ec-4bd9-b7ac-71f68436c313,401633ed-404c-4812-b1f8-2aa643ec2ff9,2022 Demo Deck,maelstrom-(2022)_2022-demo-deck,[],,,,,,{}
+b3f6fa83-16a5-428f-93f8-f56b39e73f67,401633ed-404c-4812-b1f8-2aa643ec2ff9,Sample Cards,maelstrom-(2022)_sample-cards,[],,,,,,{}

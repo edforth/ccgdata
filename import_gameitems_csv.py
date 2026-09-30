@@ -9,13 +9,14 @@ load_dotenv()
 
 
 import_csvs = [
-    #'import/ccgdata_gameitems_altered.csv'
+    'import/ccgdata_gameitems_altered.csv'
     #, 'import/ccgdata_gameitems_anime-madness.csv'
     #, 'import/ccgdata_gameitems_argent-saga.csv'
     #, 'import/ccgdata_gameitems_austin-powers.csv'
     #, 'import/ccgdata_gameitems_banemaster.csv'
     #, 'import/ccgdata_gameitems_dice-masters.csv'
     #, 'import/ccgdata_gameitems_doomtown-reloaded.csv'
+    #, 'import/ccgdata_gameitems_dragoborne.csv'
     #, 'import/ccgdata_gameitems_dragon-ball-z-trading-card-game-(2014).csv'
     #, 'import/ccgdata_gameitems_echelons-of-fire.csv'
     #, 'import/ccgdata_gameitems_echelons-of-fury.csv'
@@ -30,11 +31,12 @@ import_csvs = [
     #, 'import/ccgdata_gameitems_magi-nation-duel.csv'
     #, 'import/ccgdata_gameitems_marvel-recharge.csv'
     #, 'import/ccgdata_gameitems_marvel-superheroes-collectors-club.csv'
+    #, 'import/ccgdata_gameitems_maelstrom-(2021).csv'
     #, 'import/ccgdata_gameitems_metazoo-2021.csv'
     #, 'import/ccgdata_gameitems_monster-magic.csv'
     #, 'import/ccgdata_gameitems_monty-python.csv'
-    #, 
-    'import/ccgdata_gameitems_my-little-pony-(2014).csv'
+    #, 'import/ccgdata_gameitems_my-little-pony-(2014).csv'
+    #, 'import/ccgdata_gameitems_nostalgix.csv'
     #, 'import/ccgdata_gameitems_on-the-edge.csv'
     #, 'import/ccgdata_gameitems_ophidian-2350.csv'
     #, 'import/ccgdata_gameitems_overpower.csv'

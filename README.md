@@ -80,11 +80,15 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 **Doomtown Reloaded**: Total Items Identified = 1257. Items imaged = 253/1257 (20%), Items documented = 0/1257 (0%)
 
+**Dragoborne: Rise to Supremacy**: Total Items Identified = 704. Items imaged = 193/704 (27%), Items documented = 0/704 (0%)
+
 **Dragon Ball Z Trading Card Game (2014)**: Total Items Identified = 1651. Items imaged = 56/1651 (3%), Items documented = 0/1651 (0%)
 
 **Echelons of Fire**: Total Items Identified = 171. Items imaged = 159/171 (93%), Items documented = 0/171 (0%)
 
 **Echelons of Fury**: Total Items Identified = 271. Items imaged = 262/271 (97%), Items documented = 0/271 (0%)
+
+**Fantasy Adventures**: Total Items Identified = 463. Items imaged = 400/463 (86%), Items documented = 0/463 (0%)
 
 **Flights of Fantasy**: Total Items Identified = 127. Items imaged = 114/127 (90%), Items documented = 0/127 (0%)
 
@@ -102,6 +106,8 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 **L.O.L. Surprise! Dance Off!**: Total Items Identified = 450. Items imaged = 311/450 (69%), Items documented = 450/450 (100%)
 
+**Maelstrom (2022)**: Total Items Identified = 40. Items imaged = 32/40 (80%), Items documented = 40/40 (100%)
+
 **Magi-Nation Duel**: Total Items Identified = 1376. Items imaged = 0/1376 (0%), Items documented = 0/1376 (0%)
 
 **Marvel ReCharge**: Total Items Identified = 500. Items imaged = 0/500 (0%), Items documented = 43/500 (9%)
@@ -114,7 +120,9 @@ Our desire is to provide a robust set of data formats to support other projects.
 
 **Monty Python and the Holy Grail Collectible Card Game**: Total Items Identified = 473. Items imaged = 166/473 (35%), Items documented = 0/473 (0%)
 
-**My Little Pony Collectible Card Game**: Total Items Identified = 2512. Items imaged = 200/2512 (8%), Items documented = 0/2512 (0%)
+**My Little Pony Collectible Card Game**: Total Items Identified = 2512. Items imaged = 227/2512 (9%), Items documented = 0/2512 (0%)
+
+**Nostalgix**: Total Items Identified = 225. Items imaged = 127/225 (56%), Items documented = 0/225 (0%)
 
 **On the Edge**: Total Items Identified = 1268. Items imaged = 667/1268 (53%), Items documented = 70/1268 (6%)
 
